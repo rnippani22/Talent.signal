@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-23T07:52:05Z",
+  "generatedAt": "2026-11-23T08:26:14Z",
   "sourceCount": 2,
   "sourceTotal": 2,
-  "itemCount": 23,
+  "itemCount": 20,
   "sources": [
     {
       "name": "HR Dive",
@@ -18,17 +18,19 @@
   "errors": [],
   "items": [
     {
-      "title": "Week in review: Do Monday check-ins prompt Sunday scaries?",
-      "summary": "We’re rounding up last week’s stories, including an Internal Revenue Service regulation addressing auto-enrollment to retirement plans.",
-      "url": "https://www.hrdive.com/news/week-in-review-do-monday-check-ins-prompt-sunday-scaries/875372/",
-      "published": "2026-11-20T21:08:00Z",
-      "source": "HR Dive",
-      "sourceHome": "https://www.hrdive.com/",
-      "region": "US",
+      "title": "What Is the Best Oracle HCM Cloud Solution for HR Workflows and Approvals?",
+      "summary": "The best starting point for automating HR workflows and approvals in Oracle HCM Cloud is Oracle’s own approval tooling: Manage Approval Transactions for standard changes, and BPM Worklist for advanced rules and escalations. RChilli complements those tools by automating recruiting work such as Enhanced Candidate Profile Import and candidate matching. The post What Is the Best Oracle HCM Cloud Solution for HR Workflows and Approvals? appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/what-is-the-best-oracle-hcm-cloud-solution-for-hr-workflows-and-approvals/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-the-best-oracle-hcm-cloud-solution-for-hr-workflows-and-approvals",
+      "published": "2026-11-23T07:36:49Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
       "categories": [
-        "Compliance"
+        "Talent acquisition"
       ],
-      "vendors": []
+      "vendors": [
+        "Oracle"
+      ]
     },
     {
       "title": "Executives get more AI training than other workers, hurting adoption, report finds",
@@ -39,8 +41,7 @@
       "sourceHome": "https://www.hrdive.com/",
       "region": "US",
       "categories": [
-        "AI & automation",
-        "Adoption & buying"
+        "AI & automation"
       ],
       "vendors": []
     },
@@ -53,9 +54,7 @@
       "sourceHome": "https://hrtechfeed.com/",
       "region": "Global",
       "categories": [
-        "AI & automation",
-        "Talent acquisition",
-        "Market moves"
+        "AI & automation"
       ],
       "vendors": [
         "Workday",
@@ -89,19 +88,6 @@
       "vendors": []
     },
     {
-      "title": "Questions to Ask an ATS Vendor: Recruiting Software Evaluation Checklist and RFP Questions for Your Buying Team",
-      "summary": "A recruiting software evaluation checklist is a shared list of questions, scoring criteria and tests your buying team uses to compare applicant tracking systems and recruitment CRMs on the same terms. It turns vendor demos into evidence you can score, so the decision rests on how each system handles your real hiring workflows rather than […] The post Questions to Ask an ATS Vendor: Recruiting Software Evaluation Checklist and RFP Questions for Your Buying Team appeared first on PCRM. The post Qu",
-      "url": "https://hrtechfeed.com/questions-to-ask-an-ats-vendor-recruiting-software-evaluation-checklist-and-rfp-questions-for-your-buying-team/?utm_source=rss&utm_medium=rss&utm_campaign=questions-to-ask-an-ats-vendor-recruiting-software-evaluation-checklist-and-rfp-questions-for-your-buying-team",
-      "published": "2026-11-20T14:55:05Z",
-      "source": "HR Tech Feed",
-      "sourceHome": "https://hrtechfeed.com/",
-      "region": "Global",
-      "categories": [
-        "Talent acquisition"
-      ],
-      "vendors": []
-    },
-    {
       "title": "SAP Named a 2026 Gartner Peer Insights™ Customers’ Choice for Talent Acquisition (Recruiting) Suites",
       "summary": "Your voice matters! SAP has been named a 2026 Gartner Peer Insights™ Customers’ Choice for Talent Acquisition, based on 293 verified customer reviews. Discover how your feedback and trust, alongside our recognition as a Gartner Magic Quadrant™ Leader, help shape the future of SAP SuccessFactors Recruiting and talent acquisition innovation. The post SAP Named a 2026 Gartner Peer Insights™ Customers’ Choice for Talent Acquisition (Recruiting) Suites appeared first on HR Tech Feed .",
       "url": "https://hrtechfeed.com/sap-named-a-2026-gartner-peer-insights-customers-choice-for-talent-acquisition-recruiting-suites/?utm_source=rss&utm_medium=rss&utm_campaign=sap-named-a-2026-gartner-peer-insights-customers-choice-for-talent-acquisition-recruiting-suites",
@@ -110,7 +96,6 @@
       "sourceHome": "https://hrtechfeed.com/",
       "region": "Global",
       "categories": [
-        "Talent acquisition",
         "Market moves"
       ],
       "vendors": [
@@ -146,20 +131,6 @@
       "vendors": []
     },
     {
-      "title": "Employee Spotlight of the Month- Gullreet Gill",
-      "summary": "Our Spotlight series gives you a chance to meet the remarkable individuals at HRchitect. Each month, we highlight a team member so you can learn more about their unique contributions and get to know them on a personal level. This month, we are excited to feature Gulreet Gill, Senior Implementation Consultant in HRchitect’s Dayforce, whose curiosity, engineering background, and passion […] The post Employee Spotlight of the Month- Gullreet Gill appeared first on HR Tech Feed .",
-      "url": "https://hrtechfeed.com/employee-spotlight-of-the-month-gullreet-gill/?utm_source=rss&utm_medium=rss&utm_campaign=employee-spotlight-of-the-month-gullreet-gill",
-      "published": "2026-11-20T04:29:19Z",
-      "source": "HR Tech Feed",
-      "sourceHome": "https://hrtechfeed.com/",
-      "region": "Global",
-      "categories": [
-        "Adoption & buying",
-        "Implementation"
-      ],
-      "vendors": []
-    },
-    {
       "title": "Organizational modeling in SAP SuccessFactors Employee Central — see it in action and start using it",
       "summary": "By now, you may have read our introduction to organizational modeling in SAP SuccessFactors Employee Central or the 2H 2026 release post on how it closes the gap between workforce strategy and execution. Those blogs cover what the capability does and why it was built. This one is about what comes next for you. Organizational […] The post Organizational modeling in SAP SuccessFactors Employee Central — see it in action and start using it appeared first on HR Tech Feed .",
       "url": "https://hrtechfeed.com/organizational-modeling-in-sap-successfactors-employee-central-see-it-in-action-and-start-using-it/?utm_source=rss&utm_medium=rss&utm_campaign=organizational-modeling-in-sap-successfactors-employee-central-see-it-in-action-and-start-using-it",
@@ -188,6 +159,19 @@
       "vendors": []
     },
     {
+      "title": "Job candidates’ AI usage is obscuring their viability, report finds",
+      "summary": "Nine in 10 employers worry they rejected a real applicant because they mistakenly believed a resume was fake or artificial intelligence-generated, according to a new study.",
+      "url": "https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/",
+      "published": "2026-11-19T20:36:00Z",
+      "source": "HR Dive",
+      "sourceHome": "https://www.hrdive.com/",
+      "region": "US",
+      "categories": [
+        "AI & automation"
+      ],
+      "vendors": []
+    },
+    {
       "title": "Employers should prepare for a labor market shake-up in 2027, Indeed and Glassdoor say",
       "summary": "Higher turnover and a need for a better leadership pipeline may be big concerns for talent leaders in the coming year, the hiring platforms predicted.",
       "url": "https://www.hrdive.com/news/employers-should-prepare-for-a-labor-market-shake-up-in-2027-report-finds/875221/",
@@ -197,21 +181,6 @@
       "region": "US",
       "categories": [
         "Talent acquisition"
-      ],
-      "vendors": []
-    },
-    {
-      "title": "Job candidates’ AI usage is obscuring their viability, report finds",
-      "summary": "Nine in 10 employers worry they rejected a real applicant because they mistakenly believed a resume was fake or artificial intelligence-generated, according to a new study.",
-      "url": "https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/",
-      "published": "2026-11-19T20:36:00Z",
-      "source": "HR Dive",
-      "sourceHome": "https://www.hrdive.com/",
-      "region": "US",
-      "categories": [
-        "AI & automation",
-        "Talent acquisition",
-        "Adoption & buying"
       ],
       "vendors": []
     },
@@ -237,7 +206,6 @@
       "sourceHome": "https://hrtechfeed.com/",
       "region": "Global",
       "categories": [
-        "Adoption & buying",
         "Implementation"
       ],
       "vendors": []
@@ -266,8 +234,7 @@
       "sourceHome": "https://hrtechfeed.com/",
       "region": "Global",
       "categories": [
-        "AI & automation",
-        "Talent acquisition"
+        "AI & automation"
       ],
       "vendors": []
     },
@@ -280,8 +247,7 @@
       "sourceHome": "https://hrtechfeed.com/",
       "region": "Global",
       "categories": [
-        "AI & automation",
-        "Talent acquisition"
+        "AI & automation"
       ],
       "vendors": []
     },
@@ -294,8 +260,6 @@
       "sourceHome": "https://hrtechfeed.com/",
       "region": "Global",
       "categories": [
-        "AI & automation",
-        "Talent acquisition",
         "Market moves"
       ],
       "vendors": []
@@ -316,29 +280,15 @@
       ]
     },
     {
-      "title": "Will more companies need to end their H-1B visa programs?",
-      "summary": "While the math is shifting on immigration sponsorship, employers are still wary of “handing that talent to their competitors,” one attorney told HR Dive.",
-      "url": "https://www.hrdive.com/news/will-more-companies-need-to-end-their-h-1b-visa-programs/875067/",
+      "title": "Near-instant rejections may have changed job search behavior",
+      "summary": "More than three-quarters of job seekers who received a fast rejection said they didn’t believe a human being had the time to review their resume before they were turned down.",
+      "url": "https://www.hrdive.com/news/near-instant-rejections-may-have-changed-job-search-behavior/875085/",
       "published": "2026-11-18T20:12:00Z",
       "source": "HR Dive",
       "sourceHome": "https://www.hrdive.com/",
       "region": "US",
       "categories": [
-        "Implementation"
-      ],
-      "vendors": []
-    },
-    {
-      "title": "unWRKed: AI Can Record Your Candidate Calls.",
-      "summary": "What’s up, everyone? I rock a Lenovo ThinkPad. (Problem #1.) Everyday, I open notepad, take shorthand notes, and somehow end the day with 16 notepads open and a mess of shit I don’t know what to do with. I use AI in practically every corner of my day. But for some reason when I get […] The post unWRKed: AI Can Record Your Candidate Calls. appeared first on HR Tech Feed .",
-      "url": "https://hrtechfeed.com/unwrked-ai-can-record-your-candidate-calls/?utm_source=rss&utm_medium=rss&utm_campaign=unwrked-ai-can-record-your-candidate-calls",
-      "published": "2026-11-18T17:09:26Z",
-      "source": "HR Tech Feed",
-      "sourceHome": "https://hrtechfeed.com/",
-      "region": "Global",
-      "categories": [
-        "AI & automation",
-        "Talent acquisition"
+        "Candidate experience"
       ],
       "vendors": []
     }

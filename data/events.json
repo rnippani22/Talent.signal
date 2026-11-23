@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:52:05Z",
+  "generatedAt": "2026-11-23T08:26:14Z",
   "sourceCount": 3,
   "sourcesChecked": 0,
   "upcoming": [
@@ -204,6 +204,21 @@
   ],
   "coverage": [
     {
+      "title": "What Is the Best Oracle HCM Cloud Solution for HR Workflows and Approvals?",
+      "summary": "The best starting point for automating HR workflows and approvals in Oracle HCM Cloud is Oracle’s own approval tooling: Manage Approval Transactions for standard changes, and BPM Worklist for advanced rules and escalations. RChilli complements those tools by automating recruiting work such as Enhanced Candidate Profile Import and candidate matching. The post What Is the Best Oracle HCM Cloud Solution for HR Workflows and Approvals? appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/what-is-the-best-oracle-hcm-cloud-solution-for-hr-workflows-and-approvals/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-the-best-oracle-hcm-cloud-solution-for-hr-workflows-and-approvals",
+      "published": "2026-11-23T07:36:49Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Talent acquisition"
+      ],
+      "vendors": [
+        "Oracle"
+      ]
+    },
+    {
       "title": "Workday’s Honeydew Deal Could Redefine AI Recruiting",
       "summary": "Workday is transforming Recruiting from a bundled, “good enough” ATS into an AI-driven talent platform through acquisitions including HiredScore, Paradox, Sana, C1.ai, and Honeydew. Honeydew adds a semantic layer that standardizes definitions, governance, and metrics across systems, enabling reliable analytics and agentic AI while helping recruiting influence enterprise-wide workforce decisions. The post Workday’s Honeydew Deal Could Redefine AI Recruiting appeared first on HR Tech Feed .",
       "url": "https://hrtechfeed.com/workdays-honeydew-deal-could-redefine-ai-recruiting/?utm_source=rss&utm_medium=rss&utm_campaign=workdays-honeydew-deal-could-redefine-ai-recruiting",
@@ -212,9 +227,7 @@
       "sourceHome": "https://hrtechfeed.com/",
       "region": "Global",
       "categories": [
-        "AI & automation",
-        "Talent acquisition",
-        "Market moves"
+        "AI & automation"
       ],
       "vendors": [
         "Workday",
@@ -230,7 +243,6 @@
       "sourceHome": "https://hrtechfeed.com/",
       "region": "Global",
       "categories": [
-        "Talent acquisition",
         "Market moves"
       ],
       "vendors": [
@@ -262,20 +274,6 @@
       "region": "Global",
       "categories": [
         "Talent acquisition"
-      ],
-      "vendors": []
-    },
-    {
-      "title": "Employee Spotlight of the Month- Gullreet Gill",
-      "summary": "Our Spotlight series gives you a chance to meet the remarkable individuals at HRchitect. Each month, we highlight a team member so you can learn more about their unique contributions and get to know them on a personal level. This month, we are excited to feature Gulreet Gill, Senior Implementation Consultant in HRchitect’s Dayforce, whose curiosity, engineering background, and passion […] The post Employee Spotlight of the Month- Gullreet Gill appeared first on HR Tech Feed .",
-      "url": "https://hrtechfeed.com/employee-spotlight-of-the-month-gullreet-gill/?utm_source=rss&utm_medium=rss&utm_campaign=employee-spotlight-of-the-month-gullreet-gill",
-      "published": "2026-11-20T04:29:19Z",
-      "source": "HR Tech Feed",
-      "sourceHome": "https://hrtechfeed.com/",
-      "region": "Global",
-      "categories": [
-        "Adoption & buying",
-        "Implementation"
       ],
       "vendors": []
     },
@@ -329,7 +327,6 @@
       "sourceHome": "https://hrtechfeed.com/",
       "region": "Global",
       "categories": [
-        "Adoption & buying",
         "Implementation"
       ],
       "vendors": []
@@ -358,8 +355,7 @@
       "sourceHome": "https://hrtechfeed.com/",
       "region": "Global",
       "categories": [
-        "AI & automation",
-        "Talent acquisition"
+        "AI & automation"
       ],
       "vendors": []
     },
@@ -372,8 +368,7 @@
       "sourceHome": "https://hrtechfeed.com/",
       "region": "Global",
       "categories": [
-        "AI & automation",
-        "Talent acquisition"
+        "AI & automation"
       ],
       "vendors": []
     }
