@@ -13,14 +13,17 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "updates.json"
 FEEDS = [
     {"name": "HR Dive", "url": "https://www.hrdive.com/feeds/news/", "home": "https://www.hrdive.com/", "region": "US"},
-    {"name": "HR Executive", "url": "https://hrexecutive.com/feed/", "home": "https://hrexecutive.com/", "region": "Global"},
-    {"name": "iCIMS Hiring Insights", "url": "https://www.icims.com/blog/feed/", "home": "https://www.icims.com/blog/", "region": "Vendor"},
+    {"name": "HR Tech Feed", "url": "https://hrtechfeed.com/feed/", "home": "https://hrtechfeed.com/", "region": "Global"},
 ]
 TERMS = {
     "AI & automation": ["ai", "artificial intelligence", "agentic", "automation", "machine learning", "generative"],
     "Talent acquisition": ["recruit", "talent acquisition", "applicant tracking", "ats", "candidate", "hiring"],
     "Compliance": ["compliance", "regulation", "law", "legislation", "bias", "privacy", "eu ai act"],
     "Market moves": ["acquisition", "acquires", "merger", "funding", "launch", "partnership", "product"],
+    "Product releases": ["launch", "launched", "release", "released", "introduces", "introduced", "new feature", "product update", "version"],
+    "Adoption & buying": ["adoption", "adopted", "buyer intent", "buying intent", "deploy", "deployed", "rollout", "customer use", "usage", "implementation"],
+    "Implementation": ["implementation", "go-live", "go live", "rollout", "deployment", "migration", "time to value"],
+    "Candidate experience": ["candidate experience", "job seeker", "applicant experience", "candidate sentiment", "candidate satisfaction", "csat", "employee experience"],
 }
 VENDORS = ["Workday", "Greenhouse", "iCIMS", "Ashby", "SmartRecruiters", "Lever", "Oracle", "SAP", "Phenom", "Avature", "Paradox", "Eightfold", "Beamery", "Bullhorn", "Workable", "Jobvite", "UKG", "Darwinbox"]
 
