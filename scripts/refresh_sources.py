@@ -246,7 +246,15 @@ def refresh_analyst_sources():
             with urllib.request.urlopen(request, timeout=15) as response:
                 report["sourceReachable"] = 200 <= response.status < 400
         except Exception:
-            report["sourceReachable"] = False
+            try:
+                # Some analyst sites do not implement HEAD. A one-byte GET
+                # fallback confirms the page without downloading the report.
+                request = urllib.request.Request(report["url"], headers={"User-Agent": "TalentSignal/1.0 (+public analyst source monitor)"})
+                with urllib.request.urlopen(request, timeout=15) as response:
+                    response.read(1)
+                    report["sourceReachable"] = 200 <= response.status < 400
+            except Exception:
+                report["sourceReachable"] = False
         report["lastCheckedAt"] = now
     data["lastCheckedAt"] = now
     data["checkedSourceCount"] = sum(1 for report in data.get("reports", []) if report.get("sourceReachable"))
