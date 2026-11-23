@@ -7,9 +7,9 @@ This bundle changes Talent Signal from a static mockup into a public-source sign
 - The date in the page header is generated in the visitor's local timezone each time the page opens.
 - Latest public articles, topic counts, topic-filtered competitive evidence and named vendor mentions load from `data/updates.json`.
 - Vendor evidence is a source-linked watchlist, not a ranking; the radar does not invent comparable CSAT or implementation scores.
-- A searchable market map lists 75 known recruiting and talent-acquisition providers, with current analyst report coverage and publicly disclosed vendor positions where available.
+- A searchable market map lists 75 known recruiting and talent-acquisition providers, with official product-page summaries refreshed every six hours when those pages are reachable, alongside current analyst report coverage and publicly disclosed vendor positions where available.
 - Gartner and Everest public abstracts identify research scope and participating vendor counts, but most detailed vendor positions and scores require their full reports. Those are marked as unavailable rather than guessed.
-- Analyst report links are checked during each six-hour refresh. Analyst ratings themselves change on analyst publication cycles, not every six hours; source-link checks do not imply a new rating.
+- Official provider pages and analyst report links are checked during each six-hour refresh. Product summaries are taken from vendor-published page descriptions and are not independent feature verification. Analyst ratings themselves change on analyst publication cycles, not every six hours; source-link checks do not imply a new rating.
 - Radar stories are deduplicated by normalized headline and assigned one primary topic. Employee spotlights, generic week-in-review roundups, and other clearly non-market feed items are filtered out.
 - A global events panel shows upcoming conferences, verified organizer details, and recaps from recent major events. Event details refresh from organizer pages when those pages expose structured event data; linked curated dates remain as fallback.
 - The event panel also surfaces new event-related stories found in monitored feeds.
