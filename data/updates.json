@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-23T07:27:49Z",
-  "sourceCount": 1,
-  "sourceTotal": 3,
-  "itemCount": 9,
+  "generatedAt": "2026-11-23T07:44:59Z",
+  "sourceCount": 2,
+  "sourceTotal": 2,
+  "itemCount": 28,
   "sources": [
     {
       "name": "HR Dive",
@@ -10,26 +10,12 @@
       "region": "US"
     },
     {
-      "name": "HR Executive",
-      "url": "https://hrexecutive.com/",
+      "name": "HR Tech Feed",
+      "url": "https://hrtechfeed.com/",
       "region": "Global"
-    },
-    {
-      "name": "iCIMS Hiring Insights",
-      "url": "https://www.icims.com/blog/",
-      "region": "Vendor"
     }
   ],
-  "errors": [
-    {
-      "source": "HR Executive",
-      "reason": "HTTP Error 403: Forbidden"
-    },
-    {
-      "source": "iCIMS Hiring Insights",
-      "reason": "HTTP Error 404: Not Found"
-    }
-  ],
+  "errors": [],
   "items": [
     {
       "title": "Week in review: Do Monday check-ins prompt Sunday scaries?",
@@ -53,21 +39,166 @@
       "sourceHome": "https://www.hrdive.com/",
       "region": "US",
       "categories": [
+        "AI & automation",
+        "Adoption & buying"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "Workday’s Honeydew Deal Could Redefine AI Recruiting",
+      "summary": "Workday is transforming Recruiting from a bundled, “good enough” ATS into an AI-driven talent platform through acquisitions including HiredScore, Paradox, Sana, C1.ai, and Honeydew. Honeydew adds a semantic layer that standardizes definitions, governance, and metrics across systems, enabling reliable analytics and agentic AI while helping recruiting influence enterprise-wide workforce decisions. The post Workday’s Honeydew Deal Could Redefine AI Recruiting appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/workdays-honeydew-deal-could-redefine-ai-recruiting/?utm_source=rss&utm_medium=rss&utm_campaign=workdays-honeydew-deal-could-redefine-ai-recruiting",
+      "published": "2026-11-20T18:36:27Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation",
+        "Talent acquisition",
+        "Market moves"
+      ],
+      "vendors": [
+        "Workday",
+        "Paradox"
+      ]
+    },
+    {
+      "title": "Software for Recruitment Agencies: How to Choose the Right One",
+      "summary": "The right recruitment agency software is the one that fits your placement model, your agency size and the workflow that’s slowing your team down most. For most recruitment agencies, that means a single platform that combines an applicant tracking system with a recruitment CRM, so candidates, clients, jobs and placements live in one place. This […] The post Software for Recruitment Agencies: How to Choose the Right One appeared first on PCRM. The post Software for Recruitment Agencies: How to Cho",
+      "url": "https://hrtechfeed.com/software-for-recruitment-agencies-how-to-choose-the-right-one/?utm_source=rss&utm_medium=rss&utm_campaign=software-for-recruitment-agencies-how-to-choose-the-right-one",
+      "published": "2026-11-20T15:05:02Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Talent acquisition"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "Questions to Ask an ATS Vendor: Recruiting Software Evaluation Checklist and RFP Questions for Your Buying Team",
+      "summary": "A recruiting software evaluation checklist is a shared list of questions, scoring criteria and tests your buying team uses to compare applicant tracking systems and recruitment CRMs on the same terms. It turns vendor demos into evidence you can score, so the decision rests on how each system handles your real hiring workflows rather than […] The post Questions to Ask an ATS Vendor: Recruiting Software Evaluation Checklist and RFP Questions for Your Buying Team appeared first on PCRM. The post Qu",
+      "url": "https://hrtechfeed.com/questions-to-ask-an-ats-vendor-recruiting-software-evaluation-checklist-and-rfp-questions-for-your-buying-team-2/?utm_source=rss&utm_medium=rss&utm_campaign=questions-to-ask-an-ats-vendor-recruiting-software-evaluation-checklist-and-rfp-questions-for-your-buying-team-2",
+      "published": "2026-11-20T14:55:05Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Talent acquisition"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "Questions to Ask an ATS Vendor: Recruiting Software Evaluation Checklist and RFP Questions for Your Buying Team",
+      "summary": "A recruiting software evaluation checklist is a shared list of questions, scoring criteria and tests your buying team uses to compare applicant tracking systems and recruitment CRMs on the same terms. It turns vendor demos into evidence you can score, so the decision rests on how each system handles your real hiring workflows rather than […] The post Questions to Ask an ATS Vendor: Recruiting Software Evaluation Checklist and RFP Questions for Your Buying Team appeared first on PCRM. The post Qu",
+      "url": "https://hrtechfeed.com/questions-to-ask-an-ats-vendor-recruiting-software-evaluation-checklist-and-rfp-questions-for-your-buying-team/?utm_source=rss&utm_medium=rss&utm_campaign=questions-to-ask-an-ats-vendor-recruiting-software-evaluation-checklist-and-rfp-questions-for-your-buying-team",
+      "published": "2026-11-20T14:55:05Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Talent acquisition"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "Talent Shortage 2026: What’s Driving It and How Smart Employers Are Responding",
+      "summary": "Unemployment claims are ticking up. Layoffs make headlines every week. And yet 72% of employers worldwide say they still can’t find the skilled workers they need. That’s not a contradiction. It’s the defining friction of the 2026 labor market, and this article breaks down why it’s happening and what to actually do about it. What […] The post Talent Shortage 2026: What’s Driving It and How Smart Employers Are Responding appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/talent-shortage-2026-whats-driving-it-and-how-smart-employers-are-responding/?utm_source=rss&utm_medium=rss&utm_campaign=talent-shortage-2026-whats-driving-it-and-how-smart-employers-are-responding",
+      "published": "2026-11-20T14:00:00Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
         "AI & automation"
       ],
       "vendors": []
     },
     {
-      "title": "Job candidates’ AI usage is obscuring their viability, report finds",
-      "summary": "Nine in 10 employers worry they rejected a real applicant because they mistakenly believed a resume was fake or artificial intelligence-generated, according to a new study.",
-      "url": "https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/",
-      "published": "2026-11-19T20:36:00Z",
-      "source": "HR Dive",
-      "sourceHome": "https://www.hrdive.com/",
-      "region": "US",
+      "title": "SAP Named a 2026 Gartner Peer Insights™ Customers’ Choice for Talent Acquisition (Recruiting) Suites",
+      "summary": "Your voice matters! SAP has been named a 2026 Gartner Peer Insights™ Customers’ Choice for Talent Acquisition, based on 293 verified customer reviews. Discover how your feedback and trust, alongside our recognition as a Gartner Magic Quadrant™ Leader, help shape the future of SAP SuccessFactors Recruiting and talent acquisition innovation. The post SAP Named a 2026 Gartner Peer Insights™ Customers’ Choice for Talent Acquisition (Recruiting) Suites appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/sap-named-a-2026-gartner-peer-insights-customers-choice-for-talent-acquisition-recruiting-suites/?utm_source=rss&utm_medium=rss&utm_campaign=sap-named-a-2026-gartner-peer-insights-customers-choice-for-talent-acquisition-recruiting-suites",
+      "published": "2026-11-20T13:21:55Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Talent acquisition",
+        "Market moves"
+      ],
+      "vendors": [
+        "SAP"
+      ]
+    },
+    {
+      "title": "UK Payroll April 2027: Why SAP is Targeting February 2027 for the Main Legal Changes",
+      "summary": "SAP wish to share an update with our customers that the main legal changes supporting the April 2027 UK payroll legislation will be delivered in February 2027. This post explains the reasoning, so customers can plan accordingly. The post UK Payroll April 2027: Why SAP is Targeting February 2027 for the Main Legal Changes appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/uk-payroll-april-2027-why-sap-is-targeting-february-2027-for-the-main-legal-changes/?utm_source=rss&utm_medium=rss&utm_campaign=uk-payroll-april-2027-why-sap-is-targeting-february-2027-for-the-main-legal-changes",
+      "published": "2026-11-20T11:45:40Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation",
+        "Compliance"
+      ],
+      "vendors": [
+        "SAP"
+      ]
+    },
+    {
+      "title": "More Revenue, Fewer Jobs: Indeed’s Record Quarter and the Economy That Stopped Hiring",
+      "summary": "Happy Friday, Job Board Doctor friends! Three stories landed in the last ten days that are interesting on their own, but together continue to tell us how our landscape is evolving and, more importantly, how we must evolve with it. Indeed posted a record US quarter on fewer jobs. The country’s business economists raised their […] The post More Revenue, Fewer Jobs: Indeed’s Record Quarter and the Economy That Stopped Hiring appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/more-revenue-fewer-jobs-indeeds-record-quarter-and-the-economy-that-stopped-hiring/?utm_source=rss&utm_medium=rss&utm_campaign=more-revenue-fewer-jobs-indeeds-record-quarter-and-the-economy-that-stopped-hiring",
+      "published": "2026-11-20T11:40:15Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
       "categories": [
         "AI & automation",
         "Talent acquisition"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "Employee Spotlight of the Month- Gullreet Gill",
+      "summary": "Our Spotlight series gives you a chance to meet the remarkable individuals at HRchitect. Each month, we highlight a team member so you can learn more about their unique contributions and get to know them on a personal level. This month, we are excited to feature Gulreet Gill, Senior Implementation Consultant in HRchitect’s Dayforce, whose curiosity, engineering background, and passion […] The post Employee Spotlight of the Month- Gullreet Gill appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/employee-spotlight-of-the-month-gullreet-gill/?utm_source=rss&utm_medium=rss&utm_campaign=employee-spotlight-of-the-month-gullreet-gill",
+      "published": "2026-11-20T04:29:19Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Adoption & buying",
+        "Implementation"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "Organizational modeling in SAP SuccessFactors Employee Central — see it in action and start using it",
+      "summary": "By now, you may have read our introduction to organizational modeling in SAP SuccessFactors Employee Central or the 2H 2026 release post on how it closes the gap between workforce strategy and execution. Those blogs cover what the capability does and why it was built. This one is about what comes next for you. Organizational […] The post Organizational modeling in SAP SuccessFactors Employee Central — see it in action and start using it appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/organizational-modeling-in-sap-successfactors-employee-central-see-it-in-action-and-start-using-it/?utm_source=rss&utm_medium=rss&utm_campaign=organizational-modeling-in-sap-successfactors-employee-central-see-it-in-action-and-start-using-it",
+      "published": "2026-11-20T01:33:51Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Product releases"
+      ],
+      "vendors": [
+        "SAP"
+      ]
+    },
+    {
+      "title": "Upwork to Present at the UBS Global Technology and AI Conference",
+      "summary": "PALO ALTO, Calif., Nov. 19, 2026 (GLOBE NEWSWIRE) — Upwork Inc. (Nasdaq: UPWK), the world’s human and AI-powered work marketplace, today announced that Chief Financial Officer Erica Gessert and Chief Business Officer Peter Sanborn will participate in a fireside chat at the UBS Global Technology The post Upwork to Present at the UBS Global Technology and AI Conference appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/upwork-to-present-at-the-ubs-global-technology-and-ai-conference/?utm_source=rss&utm_medium=rss&utm_campaign=upwork-to-present-at-the-ubs-global-technology-and-ai-conference",
+      "published": "2026-11-19T21:03:07Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation"
       ],
       "vendors": []
     },
@@ -85,6 +216,21 @@
       "vendors": []
     },
     {
+      "title": "Job candidates’ AI usage is obscuring their viability, report finds",
+      "summary": "Nine in 10 employers worry they rejected a real applicant because they mistakenly believed a resume was fake or artificial intelligence-generated, according to a new study.",
+      "url": "https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/",
+      "published": "2026-11-19T20:36:00Z",
+      "source": "HR Dive",
+      "sourceHome": "https://www.hrdive.com/",
+      "region": "US",
+      "categories": [
+        "AI & automation",
+        "Talent acquisition",
+        "Adoption & buying"
+      ],
+      "vendors": []
+    },
+    {
       "title": "Bipartisan bill aims to secure more FMLA time for parents with NICU babies",
       "summary": "Supporters pointed to parents having to decide between using job-protected time to stay with their preterm newborn or for bonding later.",
       "url": "https://www.hrdive.com/news/bipartisan-bill-aims-to-secure-more-fmla-time-for-parents-with-nicu-babies/875214/",
@@ -94,6 +240,19 @@
       "region": "US",
       "categories": [
         "AI & automation"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "ADP Acquires ZenBusiness",
+      "summary": "The post ADP Acquires ZenBusiness appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/adp-acquires-zenbusiness/?utm_source=rss&utm_medium=rss&utm_campaign=adp-acquires-zenbusiness",
+      "published": "2026-11-19T19:34:00Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Market moves"
       ],
       "vendors": []
     },
@@ -124,15 +283,103 @@
       "vendors": []
     },
     {
-      "title": "Near-instant rejections may have changed job search behavior",
-      "summary": "More than three-quarters of job seekers who received a fast rejection said they didn’t believe a human being had the time to review their resume before they were turned down.",
-      "url": "https://www.hrdive.com/news/near-instant-rejections-may-have-changed-job-search-behavior/875085/",
+      "title": "CoRL 2026 Takeaways",
+      "summary": "Last week I attended CoRL, the Conference on Robot Learning, in Austin. Both Fei-Fei Li and the Gemini Robotics team said next year’s conference will look very different, and after watching Walden’s keynote I believe them. The biggest change from last year is that deployments are here: more companies are The post CoRL 2026 Takeaways appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/corl-2026-takeaways/?utm_source=rss&utm_medium=rss&utm_campaign=corl-2026-takeaways",
+      "published": "2026-11-19T15:03:35Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation",
+        "Adoption & buying",
+        "Implementation"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "Ziprecruiter Returns to Profitability, Workday buys Honeydew",
+      "summary": "ZipRecruiter delivered a strong financial turnaround in the third quarter of 2026, beating its own projections on both revenue and profitability despite a sluggish broader hiring market. Key Takeaways & Financial Breakdown Return to Profitability: ZipRecruiter generated a GAAP net income of $5.1 million in Q3 2026, swinging back into the black compared to a […] The post Ziprecruiter Returns to Profitability, Workday buys Honeydew appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/ziprecruiter-returns-to-profitability-workday-buys-honeydew/?utm_source=rss&utm_medium=rss&utm_campaign=ziprecruiter-returns-to-profitability-workday-buys-honeydew",
+      "published": "2026-11-19T14:30:00Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Talent acquisition"
+      ],
+      "vendors": [
+        "Workday"
+      ]
+    },
+    {
+      "title": "Why the most popular personality assessments may be working against you",
+      "summary": "Personality assessments are more popular in hiring than ever, with over three-quarters of employers using personality and skills tests as a standard part of their vetting processes. A flood of AI-polished resumes has made it harder to evaluate candidates on paper, and more organizations are turning to assessments to get beyond the surface. That instinct […] The post Why the most popular personality assessments may be working against you appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/why-the-most-popular-personality-assessments-may-be-working-against-you/?utm_source=rss&utm_medium=rss&utm_campaign=why-the-most-popular-personality-assessments-may-be-working-against-you",
+      "published": "2026-11-19T14:00:00Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation",
+        "Talent acquisition"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "New HR Tech from Olamee, Asymbl",
+      "summary": "Olamee, a global hiring and workforce management platform, today announced the general availability of its AI-powered system for finding, hiring, employing and managing talent in other countries. The platform combines AI candidate sourcing, an applicant tracking system (ATS), Employer of Record (EOR) services and workforce management in one account, so small and midsize businesses, professional […] The post New HR Tech from Olamee, Asymbl appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/new-hr-tech-from-olamee-asymbl/?utm_source=rss&utm_medium=rss&utm_campaign=new-hr-tech-from-olamee-asymbl",
+      "published": "2026-11-19T13:47:52Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation",
+        "Talent acquisition"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "Revelio Labs Acquires Job Posting Data Provider SourceStack to Expand Global Hiring Intelligence",
+      "summary": "NEW YORK — November 17, 2026 — Workforce intelligence company Revelio Labs announced today that it has acquired SourceStack, a global provider of direct job posting data. Financial terms of the transaction were not disclosed. The acquisition integrates SourceStack’s AI-driven data collection infrastructure into Revelio Labs’ workforce analytics platform, strengthening its real-time visibility into employer […] The post Revelio Labs Acquires Job Posting Data Provider SourceStack to Expand Global ",
+      "url": "https://hrtechfeed.com/revelio-labs-acquires-job-posting-data-provider-sourcestack-to-expand-global-hiring-intelligence/?utm_source=rss&utm_medium=rss&utm_campaign=revelio-labs-acquires-job-posting-data-provider-sourcestack-to-expand-global-hiring-intelligence",
+      "published": "2026-11-19T13:41:02Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation",
+        "Talent acquisition",
+        "Market moves"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "Susan Richards – The State of HR Technology: Lessons from 2026 and Predictions for 2027",
+      "summary": "Susan Richards, founder of Sapien Insights GroupRecorded at HR Technology in Las Vegas, David and Susan reflect on lessons from 2026 and what may lie ahead. They discuss AI’s potential—and limits—and why critical thinking, leadership, organizational agility and human judgment remain essential as work changes. Key topics and takeaways The post Susan Richards – The State of HR Technology: Lessons from 2026 and Predictions for 2027 appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/susan-richards-the-state-of-hr-technology-lessons-from-2026-and-predictions-for-2027/?utm_source=rss&utm_medium=rss&utm_campaign=susan-richards-the-state-of-hr-technology-lessons-from-2026-and-predictions-for-2027",
+      "published": "2026-11-19T13:00:00Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation"
+      ],
+      "vendors": [
+        "SAP"
+      ]
+    },
+    {
+      "title": "Will more companies need to end their H-1B visa programs?",
+      "summary": "While the math is shifting on immigration sponsorship, employers are still wary of “handing that talent to their competitors,” one attorney told HR Dive.",
+      "url": "https://www.hrdive.com/news/will-more-companies-need-to-end-their-h-1b-visa-programs/875067/",
       "published": "2026-11-18T20:12:00Z",
       "source": "HR Dive",
       "sourceHome": "https://www.hrdive.com/",
       "region": "US",
       "categories": [
-        "AI & automation"
+        "Implementation"
       ],
       "vendors": []
     },
@@ -146,6 +393,20 @@
       "region": "US",
       "categories": [
         "AI & automation"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "unWRKed: AI Can Record Your Candidate Calls.",
+      "summary": "What’s up, everyone? I rock a Lenovo ThinkPad. (Problem #1.) Everyday, I open notepad, take shorthand notes, and somehow end the day with 16 notepads open and a mess of shit I don’t know what to do with. I use AI in practically every corner of my day. But for some reason when I get […] The post unWRKed: AI Can Record Your Candidate Calls. appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/unwrked-ai-can-record-your-candidate-calls/?utm_source=rss&utm_medium=rss&utm_campaign=unwrked-ai-can-record-your-candidate-calls",
+      "published": "2026-11-18T17:09:26Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation",
+        "Talent acquisition"
       ],
       "vendors": []
     }

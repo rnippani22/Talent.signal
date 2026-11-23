@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:27:49Z",
+  "generatedAt": "2026-11-23T07:44:59Z",
   "sourceCount": 3,
   "sourcesChecked": 0,
   "upcoming": [
@@ -202,5 +202,182 @@
       "reason": "HTTP Error 403: Forbidden"
     }
   ],
-  "coverage": []
+  "coverage": [
+    {
+      "title": "Workday’s Honeydew Deal Could Redefine AI Recruiting",
+      "summary": "Workday is transforming Recruiting from a bundled, “good enough” ATS into an AI-driven talent platform through acquisitions including HiredScore, Paradox, Sana, C1.ai, and Honeydew. Honeydew adds a semantic layer that standardizes definitions, governance, and metrics across systems, enabling reliable analytics and agentic AI while helping recruiting influence enterprise-wide workforce decisions. The post Workday’s Honeydew Deal Could Redefine AI Recruiting appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/workdays-honeydew-deal-could-redefine-ai-recruiting/?utm_source=rss&utm_medium=rss&utm_campaign=workdays-honeydew-deal-could-redefine-ai-recruiting",
+      "published": "2026-11-20T18:36:27Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation",
+        "Talent acquisition",
+        "Market moves"
+      ],
+      "vendors": [
+        "Workday",
+        "Paradox"
+      ]
+    },
+    {
+      "title": "Talent Shortage 2026: What’s Driving It and How Smart Employers Are Responding",
+      "summary": "Unemployment claims are ticking up. Layoffs make headlines every week. And yet 72% of employers worldwide say they still can’t find the skilled workers they need. That’s not a contradiction. It’s the defining friction of the 2026 labor market, and this article breaks down why it’s happening and what to actually do about it. What […] The post Talent Shortage 2026: What’s Driving It and How Smart Employers Are Responding appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/talent-shortage-2026-whats-driving-it-and-how-smart-employers-are-responding/?utm_source=rss&utm_medium=rss&utm_campaign=talent-shortage-2026-whats-driving-it-and-how-smart-employers-are-responding",
+      "published": "2026-11-20T14:00:00Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "SAP Named a 2026 Gartner Peer Insights™ Customers’ Choice for Talent Acquisition (Recruiting) Suites",
+      "summary": "Your voice matters! SAP has been named a 2026 Gartner Peer Insights™ Customers’ Choice for Talent Acquisition, based on 293 verified customer reviews. Discover how your feedback and trust, alongside our recognition as a Gartner Magic Quadrant™ Leader, help shape the future of SAP SuccessFactors Recruiting and talent acquisition innovation. The post SAP Named a 2026 Gartner Peer Insights™ Customers’ Choice for Talent Acquisition (Recruiting) Suites appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/sap-named-a-2026-gartner-peer-insights-customers-choice-for-talent-acquisition-recruiting-suites/?utm_source=rss&utm_medium=rss&utm_campaign=sap-named-a-2026-gartner-peer-insights-customers-choice-for-talent-acquisition-recruiting-suites",
+      "published": "2026-11-20T13:21:55Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Talent acquisition",
+        "Market moves"
+      ],
+      "vendors": [
+        "SAP"
+      ]
+    },
+    {
+      "title": "UK Payroll April 2027: Why SAP is Targeting February 2027 for the Main Legal Changes",
+      "summary": "SAP wish to share an update with our customers that the main legal changes supporting the April 2027 UK payroll legislation will be delivered in February 2027. This post explains the reasoning, so customers can plan accordingly. The post UK Payroll April 2027: Why SAP is Targeting February 2027 for the Main Legal Changes appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/uk-payroll-april-2027-why-sap-is-targeting-february-2027-for-the-main-legal-changes/?utm_source=rss&utm_medium=rss&utm_campaign=uk-payroll-april-2027-why-sap-is-targeting-february-2027-for-the-main-legal-changes",
+      "published": "2026-11-20T11:45:40Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation",
+        "Compliance"
+      ],
+      "vendors": [
+        "SAP"
+      ]
+    },
+    {
+      "title": "More Revenue, Fewer Jobs: Indeed’s Record Quarter and the Economy That Stopped Hiring",
+      "summary": "Happy Friday, Job Board Doctor friends! Three stories landed in the last ten days that are interesting on their own, but together continue to tell us how our landscape is evolving and, more importantly, how we must evolve with it. Indeed posted a record US quarter on fewer jobs. The country’s business economists raised their […] The post More Revenue, Fewer Jobs: Indeed’s Record Quarter and the Economy That Stopped Hiring appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/more-revenue-fewer-jobs-indeeds-record-quarter-and-the-economy-that-stopped-hiring/?utm_source=rss&utm_medium=rss&utm_campaign=more-revenue-fewer-jobs-indeeds-record-quarter-and-the-economy-that-stopped-hiring",
+      "published": "2026-11-20T11:40:15Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation",
+        "Talent acquisition"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "Employee Spotlight of the Month- Gullreet Gill",
+      "summary": "Our Spotlight series gives you a chance to meet the remarkable individuals at HRchitect. Each month, we highlight a team member so you can learn more about their unique contributions and get to know them on a personal level. This month, we are excited to feature Gulreet Gill, Senior Implementation Consultant in HRchitect’s Dayforce, whose curiosity, engineering background, and passion […] The post Employee Spotlight of the Month- Gullreet Gill appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/employee-spotlight-of-the-month-gullreet-gill/?utm_source=rss&utm_medium=rss&utm_campaign=employee-spotlight-of-the-month-gullreet-gill",
+      "published": "2026-11-20T04:29:19Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Adoption & buying",
+        "Implementation"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "Organizational modeling in SAP SuccessFactors Employee Central — see it in action and start using it",
+      "summary": "By now, you may have read our introduction to organizational modeling in SAP SuccessFactors Employee Central or the 2H 2026 release post on how it closes the gap between workforce strategy and execution. Those blogs cover what the capability does and why it was built. This one is about what comes next for you. Organizational […] The post Organizational modeling in SAP SuccessFactors Employee Central — see it in action and start using it appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/organizational-modeling-in-sap-successfactors-employee-central-see-it-in-action-and-start-using-it/?utm_source=rss&utm_medium=rss&utm_campaign=organizational-modeling-in-sap-successfactors-employee-central-see-it-in-action-and-start-using-it",
+      "published": "2026-11-20T01:33:51Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Product releases"
+      ],
+      "vendors": [
+        "SAP"
+      ]
+    },
+    {
+      "title": "Upwork to Present at the UBS Global Technology and AI Conference",
+      "summary": "PALO ALTO, Calif., Nov. 19, 2026 (GLOBE NEWSWIRE) — Upwork Inc. (Nasdaq: UPWK), the world’s human and AI-powered work marketplace, today announced that Chief Financial Officer Erica Gessert and Chief Business Officer Peter Sanborn will participate in a fireside chat at the UBS Global Technology The post Upwork to Present at the UBS Global Technology and AI Conference appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/upwork-to-present-at-the-ubs-global-technology-and-ai-conference/?utm_source=rss&utm_medium=rss&utm_campaign=upwork-to-present-at-the-ubs-global-technology-and-ai-conference",
+      "published": "2026-11-19T21:03:07Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "ADP Acquires ZenBusiness",
+      "summary": "The post ADP Acquires ZenBusiness appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/adp-acquires-zenbusiness/?utm_source=rss&utm_medium=rss&utm_campaign=adp-acquires-zenbusiness",
+      "published": "2026-11-19T19:34:00Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Market moves"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "CoRL 2026 Takeaways",
+      "summary": "Last week I attended CoRL, the Conference on Robot Learning, in Austin. Both Fei-Fei Li and the Gemini Robotics team said next year’s conference will look very different, and after watching Walden’s keynote I believe them. The biggest change from last year is that deployments are here: more companies are The post CoRL 2026 Takeaways appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/corl-2026-takeaways/?utm_source=rss&utm_medium=rss&utm_campaign=corl-2026-takeaways",
+      "published": "2026-11-19T15:03:35Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation",
+        "Adoption & buying",
+        "Implementation"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "Ziprecruiter Returns to Profitability, Workday buys Honeydew",
+      "summary": "ZipRecruiter delivered a strong financial turnaround in the third quarter of 2026, beating its own projections on both revenue and profitability despite a sluggish broader hiring market. Key Takeaways & Financial Breakdown Return to Profitability: ZipRecruiter generated a GAAP net income of $5.1 million in Q3 2026, swinging back into the black compared to a […] The post Ziprecruiter Returns to Profitability, Workday buys Honeydew appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/ziprecruiter-returns-to-profitability-workday-buys-honeydew/?utm_source=rss&utm_medium=rss&utm_campaign=ziprecruiter-returns-to-profitability-workday-buys-honeydew",
+      "published": "2026-11-19T14:30:00Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Talent acquisition"
+      ],
+      "vendors": [
+        "Workday"
+      ]
+    },
+    {
+      "title": "Why the most popular personality assessments may be working against you",
+      "summary": "Personality assessments are more popular in hiring than ever, with over three-quarters of employers using personality and skills tests as a standard part of their vetting processes. A flood of AI-polished resumes has made it harder to evaluate candidates on paper, and more organizations are turning to assessments to get beyond the surface. That instinct […] The post Why the most popular personality assessments may be working against you appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/why-the-most-popular-personality-assessments-may-be-working-against-you/?utm_source=rss&utm_medium=rss&utm_campaign=why-the-most-popular-personality-assessments-may-be-working-against-you",
+      "published": "2026-11-19T14:00:00Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation",
+        "Talent acquisition"
+      ],
+      "vendors": []
+    }
+  ]
 }
