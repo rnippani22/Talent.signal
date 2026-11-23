@@ -15,10 +15,10 @@ jobs:
           python-version: '3.x'
       - name: Collect public RSS and event-source updates
         run: python scripts/refresh_sources.py
-      - name: Commit refreshed news and event snapshots
+      - name: Commit refreshed news, events, and vendor profiles
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/updates.json data/events.json
-          git diff --cached --quiet || git commit -m 'Refresh public recruiting-tech signals'
+          git add data/updates.json data/events.json data/analyst_assessments.json
+          git diff --cached --quiet || git commit -m 'Refresh public recruiting-tech signals and vendor profiles'
           git push
