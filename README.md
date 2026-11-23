@@ -10,7 +10,7 @@ This bundle changes Talent Signal from a static mockup into a public-source sign
 - A searchable market map lists 75 known recruiting and talent-acquisition providers, with current analyst report coverage and publicly disclosed vendor positions where available.
 - Gartner and Everest public abstracts identify research scope and participating vendor counts, but most detailed vendor positions and scores require their full reports. Those are marked as unavailable rather than guessed.
 - Analyst report links are checked during each six-hour refresh. Analyst ratings themselves change on analyst publication cycles, not every six hours; source-link checks do not imply a new rating.
-- Radar stories are deduplicated by URL and assigned one primary topic. Employee spotlights, generic week-in-review roundups, and other clearly non-market feed items are filtered out.
+- Radar stories are deduplicated by normalized headline and assigned one primary topic. Employee spotlights, generic week-in-review roundups, and other clearly non-market feed items are filtered out.
 - A global events panel shows upcoming conferences, verified organizer details, and recaps from recent major events. Event details refresh from organizer pages when those pages expose structured event data; linked curated dates remain as fallback.
 - The event panel also surfaces new event-related stories found in monitored feeds.
 - GitHub Actions is configured to rebuild that JSON snapshot every six hours, and on manual dispatch.
@@ -19,13 +19,13 @@ This bundle changes Talent Signal from a static mockup into a public-source sign
 
 ## Files to add/update in the repository
 
-Copy `index.html` to the repository root, and add `.github/workflows/refresh-sources.yml`, `scripts/refresh_sources.py`, `data/updates.json`, and `data/events.json` in the matching paths.
+Copy `index.html` to the repository root. Keep `scripts/refresh_sources.py`, `scripts/market_map.js`, `data/updates.json`, `data/events.json`, and `data/analyst_assessments.json` in their matching paths.
 
 ## GitHub Actions setting
 
 The repository's Actions settings must allow workflows to write repository contents. If Actions are restricted to read-only tokens, the collector cannot commit an updated snapshot.
 
-The workflow refreshes public feeds and event sources every six hours, commits the latest JSON snapshots, and GitHub Pages republishes the site from the updated repository. The page reads `data/updates.json` and `data/events.json` from the deployed site with cache-busting requests.
+The workflow refreshes public feeds, event sources, and analyst source-link checks every six hours, commits the latest JSON snapshots, and GitHub Pages republishes the site from the updated repository. The page reads all three JSON snapshots with cache-busting requests. Analyst link checks do not extract or guess new report ratings; public positions are updated when a new report cycle or attributable vendor announcement is confirmed.
 
 ## Current public sources
 
@@ -35,4 +35,4 @@ The workflow refreshes public feeds and event sources every six hours, commits t
 
 The dashboard shows how many public sources reported successfully. Coverage is limited to free sources; failures are surfaced. Topic and vendor matching is keyword-based, so verify important claims against the linked original source.
 
-No paid analyst scores or customer-rating feeds are included.
+No paid analyst report content or customer-rating feeds are reproduced. The dashboard links to analyst sources and labels public vendor-reported positions separately.
