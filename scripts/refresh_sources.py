@@ -52,6 +52,12 @@ def child_text(node, *names):
             return found.text
     return ""
 
+def term_matches(term, text):
+    term = term.lower()
+    if len(term) <= 3 and term.isalpha():
+        return re.search(rf"(?<![a-z0-9]){re.escape(term)}(?![a-z0-9])", text) is not None
+    return term in text
+
 def parse_feed(feed):
     req = urllib.request.Request(feed["url"], headers={"User-Agent": "TalentSignal/1.0 (+public RSS aggregator)"})
     with urllib.request.urlopen(req, timeout=20) as response:
@@ -79,7 +85,7 @@ def parse_feed(feed):
         if not title or not link:
             continue
         text = (title + " " + summary).lower()
-        categories = [name for name, words in TERMS.items() if any(word in text for word in words)]
+        categories = [name for name, words in TERMS.items() if any(term_matches(word, text) for word in words)]
         if not categories:
             continue
         vendors = [name for name in VENDORS if name.lower() in text]
