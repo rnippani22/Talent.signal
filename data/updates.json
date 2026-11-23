@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-23T07:44:59Z",
+  "generatedAt": "2026-11-23T07:52:05Z",
   "sourceCount": 2,
   "sourceTotal": 2,
-  "itemCount": 28,
+  "itemCount": 23,
   "sources": [
     {
       "name": "HR Dive",
@@ -102,19 +102,6 @@
       "vendors": []
     },
     {
-      "title": "Talent Shortage 2026: What’s Driving It and How Smart Employers Are Responding",
-      "summary": "Unemployment claims are ticking up. Layoffs make headlines every week. And yet 72% of employers worldwide say they still can’t find the skilled workers they need. That’s not a contradiction. It’s the defining friction of the 2026 labor market, and this article breaks down why it’s happening and what to actually do about it. What […] The post Talent Shortage 2026: What’s Driving It and How Smart Employers Are Responding appeared first on HR Tech Feed .",
-      "url": "https://hrtechfeed.com/talent-shortage-2026-whats-driving-it-and-how-smart-employers-are-responding/?utm_source=rss&utm_medium=rss&utm_campaign=talent-shortage-2026-whats-driving-it-and-how-smart-employers-are-responding",
-      "published": "2026-11-20T14:00:00Z",
-      "source": "HR Tech Feed",
-      "sourceHome": "https://hrtechfeed.com/",
-      "region": "Global",
-      "categories": [
-        "AI & automation"
-      ],
-      "vendors": []
-    },
-    {
       "title": "SAP Named a 2026 Gartner Peer Insights™ Customers’ Choice for Talent Acquisition (Recruiting) Suites",
       "summary": "Your voice matters! SAP has been named a 2026 Gartner Peer Insights™ Customers’ Choice for Talent Acquisition, based on 293 verified customer reviews. Discover how your feedback and trust, alongside our recognition as a Gartner Magic Quadrant™ Leader, help shape the future of SAP SuccessFactors Recruiting and talent acquisition innovation. The post SAP Named a 2026 Gartner Peer Insights™ Customers’ Choice for Talent Acquisition (Recruiting) Suites appeared first on HR Tech Feed .",
       "url": "https://hrtechfeed.com/sap-named-a-2026-gartner-peer-insights-customers-choice-for-talent-acquisition-recruiting-suites/?utm_source=rss&utm_medium=rss&utm_campaign=sap-named-a-2026-gartner-peer-insights-customers-choice-for-talent-acquisition-recruiting-suites",
@@ -139,7 +126,6 @@
       "sourceHome": "https://hrtechfeed.com/",
       "region": "Global",
       "categories": [
-        "AI & automation",
         "Compliance"
       ],
       "vendors": [
@@ -155,7 +141,6 @@
       "sourceHome": "https://hrtechfeed.com/",
       "region": "Global",
       "categories": [
-        "AI & automation",
         "Talent acquisition"
       ],
       "vendors": []
@@ -231,19 +216,6 @@
       "vendors": []
     },
     {
-      "title": "Bipartisan bill aims to secure more FMLA time for parents with NICU babies",
-      "summary": "Supporters pointed to parents having to decide between using job-protected time to stay with their preterm newborn or for bonding later.",
-      "url": "https://www.hrdive.com/news/bipartisan-bill-aims-to-secure-more-fmla-time-for-parents-with-nicu-babies/875214/",
-      "published": "2026-11-19T20:35:00Z",
-      "source": "HR Dive",
-      "sourceHome": "https://www.hrdive.com/",
-      "region": "US",
-      "categories": [
-        "AI & automation"
-      ],
-      "vendors": []
-    },
-    {
       "title": "ADP Acquires ZenBusiness",
       "summary": "The post ADP Acquires ZenBusiness appeared first on HR Tech Feed .",
       "url": "https://hrtechfeed.com/adp-acquires-zenbusiness/?utm_source=rss&utm_medium=rss&utm_campaign=adp-acquires-zenbusiness",
@@ -257,32 +229,6 @@
       "vendors": []
     },
     {
-      "title": "How to tackle employee pay cynicism",
-      "summary": "Part of the solution is enhanced transparency “when you’ve got a good story to tell,” a global rewards solution leader said.",
-      "url": "https://www.hrdive.com/news/how-to-tackle-employee-pay-cynicism/875126/",
-      "published": "2026-11-19T16:26:00Z",
-      "source": "HR Dive",
-      "sourceHome": "https://www.hrdive.com/",
-      "region": "US",
-      "categories": [
-        "AI & automation"
-      ],
-      "vendors": []
-    },
-    {
-      "title": "DOL flips independent contractor switch back with new final rule",
-      "summary": "Secretary of Labor Keith Sonderling said the agency’s renewed “economic reality” test would provide greater clarity to both workers and employers.",
-      "url": "https://www.hrdive.com/news/dol-flips-independent-contractor-switch-back-with-new-final-rule/875183/",
-      "published": "2026-11-19T15:57:00Z",
-      "source": "HR Dive",
-      "sourceHome": "https://www.hrdive.com/",
-      "region": "US",
-      "categories": [
-        "AI & automation"
-      ],
-      "vendors": []
-    },
-    {
       "title": "CoRL 2026 Takeaways",
       "summary": "Last week I attended CoRL, the Conference on Robot Learning, in Austin. Both Fei-Fei Li and the Gemini Robotics team said next year’s conference will look very different, and after watching Walden’s keynote I believe them. The biggest change from last year is that deployments are here: more companies are The post CoRL 2026 Takeaways appeared first on HR Tech Feed .",
       "url": "https://hrtechfeed.com/corl-2026-takeaways/?utm_source=rss&utm_medium=rss&utm_campaign=corl-2026-takeaways",
@@ -291,7 +237,6 @@
       "sourceHome": "https://hrtechfeed.com/",
       "region": "Global",
       "categories": [
-        "AI & automation",
         "Adoption & buying",
         "Implementation"
       ],
@@ -380,19 +325,6 @@
       "region": "US",
       "categories": [
         "Implementation"
-      ],
-      "vendors": []
-    },
-    {
-      "title": "Work done outside regular hours may count toward FMLA eligibility",
-      "summary": "In an opinion letter, DOL also said that if accurate time records are not available, eligibility sometimes must be assumed.",
-      "url": "https://www.hrdive.com/news/work-done-outside-regular-hours-may-count-toward-fmla-eligibility/875080/",
-      "published": "2026-11-18T20:12:00Z",
-      "source": "HR Dive",
-      "sourceHome": "https://www.hrdive.com/",
-      "region": "US",
-      "categories": [
-        "AI & automation"
       ],
       "vendors": []
     },
