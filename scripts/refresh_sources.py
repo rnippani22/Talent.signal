@@ -25,6 +25,14 @@ TERMS = {
     "Implementation": ["implementation", "go-live", "go live", "rollout", "deployment", "migration", "time to value"],
     "Candidate experience": ["candidate experience", "job seeker", "applicant experience", "candidate sentiment", "candidate satisfaction", "csat", "employee experience"],
 }
+# Filter HR publisher feeds down to recruiting/HR technology market material.
+# Generic HR features and personnel spotlights can otherwise match a keyword
+# such as "AI" in a bio or event title and pollute the evidence radar.
+EXCLUDE = [
+    "employee spotlight", "people spotlight", "meet the team", "employee of the month",
+    "job opening", "career opportunity", "sponsored content", "webinar replay",
+    "podcast episode", "week in review",
+]
 VENDORS = ["Workday", "Greenhouse", "iCIMS", "Ashby", "SmartRecruiters", "Lever", "Oracle", "SAP", "Phenom", "Avature", "Paradox", "Eightfold", "Beamery", "Bullhorn", "Workable", "Jobvite", "UKG", "Darwinbox"]
 
 def clean(value):
@@ -85,7 +93,20 @@ def parse_feed(feed):
         if not title or not link:
             continue
         text = (title + " " + summary).lower()
-        categories = [name for name, words in TERMS.items() if any(term_matches(word, text) for word in words)]
+        if any(term in text for term in EXCLUDE):
+            continue
+        # Classify from the headline first; use summary only as a fallback.
+        # Exactly one primary category keeps a story in one relevant section.
+        categories = []
+        title_text = title.lower()
+        for name, words in TERMS.items():
+            if any(term_matches(word, title_text) for word in words):
+                categories.append(name)
+        if not categories:
+            categories = [name for name, words in TERMS.items() if any(term_matches(word, text) for word in words)]
+        if categories:
+            priority = ["Compliance", "Product releases", "Market moves", "AI & automation", "Implementation", "Adoption & buying", "Candidate experience", "Talent acquisition"]
+            categories = [min(categories, key=priority.index)]
         if not categories:
             continue
         vendors = [name for name in VENDORS if name.lower() in text]
@@ -207,6 +228,32 @@ def refresh_events():
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Checked {data['sourceCount']}/{data['sourceTotal']} event pages; {len(candidates)} structured events found")
 
+def refresh_analyst_sources():
+    """Refresh reachability timestamps for public analyst assessment pages.
+
+    Analyst ratings are generally published on annual report cycles. This
+    six-hour check confirms source links remain reachable; it does not infer,
+    scrape, or reproduce report positions that are not publicly disclosed.
+    """
+    path = ROOT / "data" / "analyst_assessments.json"
+    if not path.exists():
+        return
+    data = json.loads(path.read_text(encoding="utf-8"))
+    now = datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
+    for report in data.get("reports", []):
+        try:
+            request = urllib.request.Request(report["url"], headers={"User-Agent": "TalentSignal/1.0 (+public analyst source monitor)"}, method="HEAD")
+            with urllib.request.urlopen(request, timeout=15) as response:
+                report["sourceReachable"] = 200 <= response.status < 400
+        except Exception:
+            report["sourceReachable"] = False
+        report["lastCheckedAt"] = now
+    data["lastCheckedAt"] = now
+    data["checkedSourceCount"] = sum(1 for report in data.get("reports", []) if report.get("sourceReachable"))
+    data["sourceTotal"] = len(data.get("reports", []))
+    path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"Checked {data['checkedSourceCount']}/{data['sourceTotal']} public analyst source links")
+
 def main():
     rows, errors = [], []
     for feed in FEEDS:
@@ -216,7 +263,9 @@ def main():
             errors.append({"source": feed["name"], "reason": str(exc)[:180]})
     unique = {}
     for row in rows:
-        key = row["url"].split("#", 1)[0].rstrip("/")
+        # Tracking parameters and alternate publisher slugs often create
+        # duplicate cards for the same headline. Collapse by normalized title.
+        key = re.sub(r"[^a-z0-9]+", " ", row["title"].lower()).strip()
         if key not in unique or (row["published"] and row["published"] > unique[key]["published"]):
             unique[key] = row
     ordered = sorted(unique.values(), key=lambda row: row["published"], reverse=True)[:60]
@@ -225,6 +274,7 @@ def main():
     OUT.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Wrote {len(ordered)} items from {data['sourceCount']}/{data['sourceTotal']} public feeds")
     refresh_events()
+    refresh_analyst_sources()
 
 if __name__ == "__main__":
     main()
