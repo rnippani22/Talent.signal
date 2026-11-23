@@ -1,0 +1,374 @@
+{
+  "generatedAt": "2026-11-23T00:00:00Z",
+  "cycleNote": "Analyst evaluations usually refresh annually or by report cycle. This file only records positions that are visible in public analyst or vendor-published materials; it does not reproduce paid report content.",
+  "reports": [
+    {
+      "analyst": "Gartner",
+      "title": "Magic Quadrant for Talent Acquisition (Recruiting) Suites",
+      "year": 2026,
+      "published": "2026-05-08",
+      "url": "https://www.gartner.com/en/documents/7831517",
+      "publicNote": "Public abstract identifies 12 evaluated vendors, but the quadrant positions and detailed scores are in the full report."
+    },
+    {
+      "analyst": "Gartner",
+      "title": "Critical Capabilities for Talent Acquisition (Recruiting) Suites",
+      "year": 2026,
+      "published": "2026-05-08",
+      "url": "https://www.gartner.com/en/documents/7832317",
+      "publicNote": "Public abstract lists 12 evaluated vendors and capability areas; product scores are in the full report."
+    },
+    {
+      "analyst": "Fosway",
+      "title": "9-Grid for Talent Acquisition",
+      "year": 2026,
+      "published": "2026-05",
+      "url": "https://www.fosway.com/9-grid-2/talent-acquisition/",
+      "publicNote": "Fosway’s current public page describes its annual TA assessment. Individual positions below are included only where an attributable public source states them."
+    },
+    {
+      "analyst": "Everest Group",
+      "title": "Candidate Engagement and Experience Platforms PEAK Matrix Assessment",
+      "year": 2025,
+      "published": "2025",
+      "url": "https://www.everestgrp.com/report/egr-2025-26-r-7722/",
+      "publicNote": "Public abstract says the assessment covers 34 permanent and 17 contingent talent-acquisition platforms; provider-level positions are available in the paid/member report."
+    },
+    {
+      "analyst": "Fosway",
+      "title": "9-Grid for Talent Acquisition",
+      "year": 2024,
+      "published": "2024-05",
+      "url": "https://www.fosway.com/wp-content/uploads/2025/04/2024-Fosway-9-Grid-Talent-Acquisition_Full-Report-FINAL-1.pdf",
+      "publicNote": "Publicly available prior-cycle report. Kept as historical context and clearly dated; superseded by the 2026 cycle."
+    }
+  ],
+  "vendors": [
+    {
+      "name": "Access / eRecruiter",
+      "segment": "ATS suite"
+    },
+    {
+      "name": "Adway",
+      "segment": "Recruitment marketing"
+    },
+    {
+      "name": "Appcast",
+      "segment": "Programmatic job advertising"
+    },
+    {
+      "name": "Appical",
+      "segment": "Onboarding"
+    },
+    {
+      "name": "Arca24",
+      "segment": "ATS suite"
+    },
+    {
+      "name": "Arctic Shores",
+      "segment": "Talent assessment"
+    },
+    {
+      "name": "Ashby",
+      "segment": "ATS / recruiting CRM"
+    },
+    {
+      "name": "Avature",
+      "segment": "Enterprise TA suite"
+    },
+    {
+      "name": "Beamery",
+      "segment": "Talent CRM / talent lifecycle"
+    },
+    {
+      "name": "Bryq",
+      "segment": "Talent assessment"
+    },
+    {
+      "name": "Bullhorn",
+      "segment": "Staffing ATS / CRM"
+    },
+    {
+      "name": "CEIPAL",
+      "segment": "Staffing ATS / CRM"
+    },
+    {
+      "name": "Cegid",
+      "segment": "HCM / ATS suite"
+    },
+    {
+      "name": "ClearCompany",
+      "segment": "ATS / talent management"
+    },
+    {
+      "name": "CleverConnect",
+      "segment": "Talent acquisition suite"
+    },
+    {
+      "name": "Clinch",
+      "segment": "Recruitment marketing"
+    },
+    {
+      "name": "Cornerstone",
+      "segment": "HCM / talent suite"
+    },
+    {
+      "name": "Crelate",
+      "segment": "Staffing ATS / CRM"
+    },
+    {
+      "name": "Darwinbox",
+      "segment": "HCM / ATS suite"
+    },
+    {
+      "name": "Eightfold AI",
+      "segment": "Talent intelligence / TA suite",
+      "fosway2026": "Strategic Leader",
+      "foswayUrl": "https://eightfold.ai/eightfold-ai-named-strategic-leader-2026-fosway-9-grid-talent-acquisition/"
+    },
+    {
+      "name": "Eploy",
+      "segment": "ATS suite",
+      "fosway2026": "Core Leader",
+      "foswayUrl": "https://www.eploy.com/about-eploy/news/eploy-named-core-leader-in-the-2026-fosway-9-grid-for-talent-acquisition/"
+    },
+    {
+      "name": "Findem",
+      "segment": "Talent intelligence / sourcing"
+    },
+    {
+      "name": "Fountain",
+      "segment": "High-volume hiring ATS",
+      "gartner2026": "Included",
+      "gartnerUrl": "https://www.gartner.com/en/documents/7831517"
+    },
+    {
+      "name": "Gem",
+      "segment": "Talent CRM / sourcing"
+    },
+    {
+      "name": "Greenhouse",
+      "segment": "ATS / recruiting CRM",
+      "gartner2026": "Included",
+      "gartnerUrl": "https://www.gartner.com/en/documents/7831517"
+    },
+    {
+      "name": "HireRoad",
+      "segment": "ATS suite"
+    },
+    {
+      "name": "HireVue",
+      "segment": "Video interviewing / assessment"
+    },
+    {
+      "name": "HrFlow.ai",
+      "segment": "Talent data / AI"
+    },
+    {
+      "name": "Infinite BrassRing",
+      "segment": "Enterprise ATS",
+      "gartner2026": "Not listed in public abstract",
+      "gartnerUrl": "https://www.gartner.com/en/documents/7831517"
+    },
+    {
+      "name": "JazzHR",
+      "segment": "SMB ATS"
+    },
+    {
+      "name": "JobDiva",
+      "segment": "Staffing ATS / CRM"
+    },
+    {
+      "name": "Jobvite",
+      "segment": "ATS / TA suite"
+    },
+    {
+      "name": "Joveo",
+      "segment": "Programmatic recruitment marketing"
+    },
+    {
+      "name": "Kallidus",
+      "segment": "ATS / talent suite"
+    },
+    {
+      "name": "Lever",
+      "segment": "ATS / recruiting CRM"
+    },
+    {
+      "name": "Manatal",
+      "segment": "Recruitment agency ATS / CRM"
+    },
+    {
+      "name": "Oleeo",
+      "segment": "ATS suite"
+    },
+    {
+      "name": "Oracle",
+      "segment": "HCM / TA suite",
+      "gartner2026": "Leader (vendor-announced)",
+      "gartnerUrl": "https://www.oracle.com/news/announcement/oracle-named-a-leader-in-2026-gartner-magic-quadrant-for-talent-acquisition-recruiting-suites-2026-06-09/"
+    },
+    {
+      "name": "Oracle Recruiting",
+      "segment": "HCM / TA suite"
+    },
+    {
+      "name": "PageUp",
+      "segment": "ATS / talent suite"
+    },
+    {
+      "name": "Paradox",
+      "segment": "Conversational recruiting / candidate experience"
+    },
+    {
+      "name": "Personio",
+      "segment": "HR suite / ATS"
+    },
+    {
+      "name": "Phenom",
+      "segment": "Talent experience / TA suite",
+      "fosway2026": "Strategic Leader",
+      "foswayUrl": "https://www.phenom.com/press-release/phenom-leader-fosway-grid-talent-acquisition"
+    },
+    {
+      "name": "Pinpoint",
+      "segment": "ATS suite"
+    },
+    {
+      "name": "Plum",
+      "segment": "Talent assessment"
+    },
+    {
+      "name": "Radancy",
+      "segment": "Recruitment marketing / candidate experience"
+    },
+    {
+      "name": "Recooty",
+      "segment": "SMB ATS"
+    },
+    {
+      "name": "Recruit CRM",
+      "segment": "Recruitment agency ATS / CRM"
+    },
+    {
+      "name": "Recruitee",
+      "segment": "ATS suite"
+    },
+    {
+      "name": "Recruiterflow",
+      "segment": "Recruitment agency ATS / CRM"
+    },
+    {
+      "name": "Rippling",
+      "segment": "HCM / ATS suite"
+    },
+    {
+      "name": "Rival",
+      "segment": "ATS suite"
+    },
+    {
+      "name": "SAP SmartRecruiters",
+      "segment": "Enterprise TA suite"
+    },
+    {
+      "name": "SAP SuccessFactors",
+      "segment": "HCM / TA suite",
+      "gartner2026": "Leader (vendor-announced)",
+      "gartnerUrl": "https://www.smartrecruiters.com/resources/landing/gartner-magic-quadrant-talent-acquisition/",
+      "fosway2026": "Strategic Leader (vendor-announced)",
+      "foswayUrl": "https://news.sap.com/2026/06/sap-strategic-leader-2026-fosway-9-grid-talent-acquisition/"
+    },
+    {
+      "name": "SeekOut",
+      "segment": "Talent sourcing / intelligence"
+    },
+    {
+      "name": "SmartDreamers",
+      "segment": "Recruitment marketing"
+    },
+    {
+      "name": "SmartRecruiters",
+      "segment": "ATS / TA suite"
+    },
+    {
+      "name": "Symphony Talent",
+      "segment": "Recruitment marketing / candidate experience"
+    },
+    {
+      "name": "Talos360",
+      "segment": "ATS suite"
+    },
+    {
+      "name": "Teamtailor",
+      "segment": "ATS suite"
+    },
+    {
+      "name": "TribePad",
+      "segment": "ATS suite"
+    },
+    {
+      "name": "Umantis",
+      "segment": "ATS suite"
+    },
+    {
+      "name": "VONQ",
+      "segment": "Recruitment marketing"
+    },
+    {
+      "name": "Vervoe",
+      "segment": "Talent assessment"
+    },
+    {
+      "name": "Workable",
+      "segment": "ATS suite",
+      "gartner2026": "Included",
+      "gartnerUrl": "https://www.gartner.com/en/documents/7831517"
+    },
+    {
+      "name": "Workday",
+      "segment": "HCM / TA suite",
+      "gartner2026": "Leader (vendor-announced)",
+      "gartnerUrl": "https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-Named-a-Leader-in-the-2026-Gartner-Magic-Quadrant-for-Talent-Acquisition-Recruiting-Suites/default.aspx"
+    },
+    {
+      "name": "Workday Recruiting",
+      "segment": "HCM / TA suite"
+    },
+    {
+      "name": "Zoho Recruit",
+      "segment": "ATS / staffing CRM"
+    },
+    {
+      "name": "d.vinci",
+      "segment": "ATS suite"
+    },
+    {
+      "name": "eArcu",
+      "segment": "ATS suite"
+    },
+    {
+      "name": "iCIMS",
+      "segment": "Enterprise TA suite",
+      "gartner2026": "Leader (vendor-announced)",
+      "gartnerUrl": "https://www.icims.com/company/newsroom/gartnerannouncement2026/",
+      "fosway2025": "Strategic Leader (vendor-announced)",
+      "foswayUrl": "https://www.icims.com/2025-fosway/"
+    },
+    {
+      "name": "iSmartRecruit",
+      "segment": "ATS / staffing CRM"
+    },
+    {
+      "name": "onlyfy",
+      "segment": "ATS / recruiting"
+    },
+    {
+      "name": "softgarden",
+      "segment": "ATS suite"
+    },
+    {
+      "name": "talentsconnect",
+      "segment": "Career sites / candidate experience"
+    }
+  ]
+}
