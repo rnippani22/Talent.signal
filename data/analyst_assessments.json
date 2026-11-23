@@ -46,229 +46,441 @@
   "vendors": [
     {
       "name": "Access / eRecruiter",
-      "segment": "ATS suite"
+      "segment": "ATS suite",
+      "profileUrl": "https://www.e-recruiter.nl/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Adway",
-      "segment": "Recruitment marketing"
+      "segment": "Recruitment marketing",
+      "profileUrl": "https://www.adway.ai/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Appcast",
-      "segment": "Programmatic job advertising"
+      "segment": "Programmatic job advertising",
+      "profileUrl": "https://www.appcast.io/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Appical",
-      "segment": "Onboarding"
+      "segment": "Onboarding",
+      "profileUrl": "https://appical.net/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Arca24",
-      "segment": "ATS suite"
+      "segment": "ATS suite",
+      "profileUrl": "https://www.arca24.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Arctic Shores",
-      "segment": "Talent assessment"
+      "segment": "Talent assessment",
+      "profileUrl": "https://www.arcticshores.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Ashby",
-      "segment": "ATS / recruiting CRM"
+      "segment": "ATS / recruiting CRM",
+      "profileUrl": "https://www.ashbyhq.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Avature",
-      "segment": "Enterprise TA suite"
+      "segment": "Enterprise TA suite",
+      "profileUrl": "https://www.avature.net/applicant-tracking-system/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Beamery",
-      "segment": "Talent CRM / talent lifecycle"
+      "segment": "Talent CRM / talent lifecycle",
+      "profileUrl": "https://beamery.com/platform/talent-acquisition/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Bryq",
-      "segment": "Talent assessment"
+      "segment": "Talent assessment",
+      "profileUrl": "https://www.bryq.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Bullhorn",
-      "segment": "Staffing ATS / CRM"
+      "segment": "Staffing ATS / CRM",
+      "profileUrl": "https://www.bullhorn.com/products/ats/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "CEIPAL",
-      "segment": "Staffing ATS / CRM"
+      "segment": "Staffing ATS / CRM",
+      "profileUrl": "https://www.ceipal.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Cegid",
-      "segment": "HCM / ATS suite"
+      "segment": "HCM / ATS suite",
+      "profileUrl": "https://www.cegid.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "ClearCompany",
-      "segment": "ATS / talent management"
+      "segment": "ATS / talent management",
+      "profileUrl": "https://www.clearcompany.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "CleverConnect",
-      "segment": "Talent acquisition suite"
+      "segment": "Talent acquisition suite",
+      "profileUrl": "https://www.cleverconnect.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Clinch",
-      "segment": "Recruitment marketing"
+      "segment": "Recruitment marketing",
+      "profileUrl": "https://clinch.co/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Cornerstone",
-      "segment": "HCM / talent suite"
+      "segment": "HCM / talent suite",
+      "profileUrl": "https://www.cornerstoneondemand.com/solutions/talent-acquisition/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Crelate",
-      "segment": "Staffing ATS / CRM"
+      "segment": "Staffing ATS / CRM",
+      "profileUrl": "https://www.crelate.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Darwinbox",
-      "segment": "HCM / ATS suite"
+      "segment": "HCM / ATS suite",
+      "profileUrl": "https://darwinbox.com/en-us/products/recruitment",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Eightfold AI",
       "segment": "Talent intelligence / TA suite",
       "fosway2026": "Strategic Leader",
-      "foswayUrl": "https://eightfold.ai/eightfold-ai-named-strategic-leader-2026-fosway-9-grid-talent-acquisition/"
+      "foswayUrl": "https://eightfold.ai/eightfold-ai-named-strategic-leader-2026-fosway-9-grid-talent-acquisition/",
+      "profileUrl": "https://eightfold.ai/products/talent-acquisition/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Eploy",
       "segment": "ATS suite",
       "fosway2026": "Core Leader",
-      "foswayUrl": "https://www.eploy.com/about-eploy/news/eploy-named-core-leader-in-the-2026-fosway-9-grid-for-talent-acquisition/"
+      "foswayUrl": "https://www.eploy.com/about-eploy/news/eploy-named-core-leader-in-the-2026-fosway-9-grid-for-talent-acquisition/",
+      "profileUrl": "https://www.eploy.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Findem",
-      "segment": "Talent intelligence / sourcing"
+      "segment": "Talent intelligence / sourcing",
+      "profileUrl": "https://www.findem.ai/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Fountain",
       "segment": "High-volume hiring ATS",
       "gartner2026": "Included",
-      "gartnerUrl": "https://www.gartner.com/en/documents/7831517"
+      "gartnerUrl": "https://www.gartner.com/en/documents/7831517",
+      "profileUrl": "https://www.fountain.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Gem",
-      "segment": "Talent CRM / sourcing"
+      "segment": "Talent CRM / sourcing",
+      "profileUrl": "https://www.gem.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Greenhouse",
       "segment": "ATS / recruiting CRM",
       "gartner2026": "Included",
-      "gartnerUrl": "https://www.gartner.com/en/documents/7831517"
+      "gartnerUrl": "https://www.gartner.com/en/documents/7831517",
+      "profileUrl": "https://www.greenhouse.com/recruiting",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "HireRoad",
-      "segment": "ATS suite"
+      "segment": "ATS suite",
+      "profileUrl": "https://hireroad.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "HireVue",
-      "segment": "Video interviewing / assessment"
+      "segment": "Video interviewing / assessment",
+      "profileUrl": "https://www.hirevue.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "HrFlow.ai",
-      "segment": "Talent data / AI"
+      "segment": "Talent data / AI",
+      "profileUrl": "https://hrflow.ai/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Infinite BrassRing",
       "segment": "Enterprise ATS",
       "gartner2026": "Not listed in public abstract",
-      "gartnerUrl": "https://www.gartner.com/en/documents/7831517"
+      "gartnerUrl": "https://www.gartner.com/en/documents/7831517",
+      "profileUrl": "https://www.ibm.com/products/talent-management",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "JazzHR",
-      "segment": "SMB ATS"
+      "segment": "SMB ATS",
+      "profileUrl": "https://www.jazzhr.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "JobDiva",
-      "segment": "Staffing ATS / CRM"
+      "segment": "Staffing ATS / CRM",
+      "profileUrl": "https://www.jobdiva.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Jobvite",
-      "segment": "ATS / TA suite"
+      "segment": "ATS / TA suite",
+      "profileUrl": "https://www.jobvite.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Joveo",
-      "segment": "Programmatic recruitment marketing"
+      "segment": "Programmatic recruitment marketing",
+      "profileUrl": "https://www.joveo.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Kallidus",
-      "segment": "ATS / talent suite"
+      "segment": "ATS / talent suite",
+      "profileUrl": "https://www.kallidus.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Lever",
-      "segment": "ATS / recruiting CRM"
+      "segment": "ATS / recruiting CRM",
+      "profileUrl": "https://www.lever.co/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Manatal",
-      "segment": "Recruitment agency ATS / CRM"
+      "segment": "Recruitment agency ATS / CRM",
+      "profileUrl": "https://www.manatal.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Oleeo",
-      "segment": "ATS suite"
+      "segment": "ATS suite",
+      "profileUrl": "https://www.oleeo.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Oracle",
       "segment": "HCM / TA suite",
       "gartner2026": "Leader (vendor-announced)",
-      "gartnerUrl": "https://www.oracle.com/news/announcement/oracle-named-a-leader-in-2026-gartner-magic-quadrant-for-talent-acquisition-recruiting-suites-2026-06-09/"
+      "gartnerUrl": "https://www.oracle.com/news/announcement/oracle-named-a-leader-in-2026-gartner-magic-quadrant-for-talent-acquisition-recruiting-suites-2026-06-09/",
+      "profileUrl": "https://www.oracle.com/human-capital-management/talent-acquisition/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Oracle Recruiting",
-      "segment": "HCM / TA suite"
+      "segment": "HCM / TA suite",
+      "profileUrl": "https://www.oracle.com/human-capital-management/talent-acquisition/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "PageUp",
-      "segment": "ATS / talent suite"
+      "segment": "ATS / talent suite",
+      "profileUrl": "https://www.pageuppeople.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Paradox",
-      "segment": "Conversational recruiting / candidate experience"
+      "segment": "Conversational recruiting / candidate experience",
+      "profileUrl": "https://www.paradox.ai/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Personio",
-      "segment": "HR suite / ATS"
+      "segment": "HR suite / ATS",
+      "profileUrl": "https://www.personio.com/product/recruiting/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Phenom",
       "segment": "Talent experience / TA suite",
       "fosway2026": "Strategic Leader",
-      "foswayUrl": "https://www.phenom.com/press-release/phenom-leader-fosway-grid-talent-acquisition"
+      "foswayUrl": "https://www.phenom.com/press-release/phenom-leader-fosway-grid-talent-acquisition",
+      "profileUrl": "https://www.phenom.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Pinpoint",
-      "segment": "ATS suite"
+      "segment": "ATS suite",
+      "profileUrl": "https://www.pinpoint.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Plum",
-      "segment": "Talent assessment"
+      "segment": "Talent assessment",
+      "profileUrl": "https://www.plum.io/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Radancy",
-      "segment": "Recruitment marketing / candidate experience"
+      "segment": "Recruitment marketing / candidate experience",
+      "profileUrl": "https://www.radancy.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Recooty",
-      "segment": "SMB ATS"
+      "segment": "SMB ATS",
+      "profileUrl": "https://recooty.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Recruit CRM",
-      "segment": "Recruitment agency ATS / CRM"
+      "segment": "Recruitment agency ATS / CRM",
+      "profileUrl": "https://recruitcrm.io/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Recruitee",
-      "segment": "ATS suite"
+      "segment": "ATS suite",
+      "profileUrl": "https://recruitee.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Recruiterflow",
-      "segment": "Recruitment agency ATS / CRM"
+      "segment": "Recruitment agency ATS / CRM",
+      "profileUrl": "https://recruiterflow.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Rippling",
-      "segment": "HCM / ATS suite"
+      "segment": "HCM / ATS suite",
+      "profileUrl": "https://www.rippling.com/recruiting",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Rival",
-      "segment": "ATS suite"
+      "segment": "ATS suite",
+      "profileUrl": "",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "SAP SmartRecruiters",
-      "segment": "Enterprise TA suite"
+      "segment": "Enterprise TA suite",
+      "profileUrl": "https://www.smartrecruiters.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "SAP SuccessFactors",
@@ -276,75 +488,143 @@
       "gartner2026": "Leader (vendor-announced)",
       "gartnerUrl": "https://www.smartrecruiters.com/resources/landing/gartner-magic-quadrant-talent-acquisition/",
       "fosway2026": "Strategic Leader (vendor-announced)",
-      "foswayUrl": "https://news.sap.com/2026/06/sap-strategic-leader-2026-fosway-9-grid-talent-acquisition/"
+      "foswayUrl": "https://news.sap.com/2026/06/sap-strategic-leader-2026-fosway-9-grid-talent-acquisition/",
+      "profileUrl": "https://www.sap.com/products/hcm/recruiting-software.html",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "SeekOut",
-      "segment": "Talent sourcing / intelligence"
+      "segment": "Talent sourcing / intelligence",
+      "profileUrl": "https://www.seekout.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "SmartDreamers",
-      "segment": "Recruitment marketing"
+      "segment": "Recruitment marketing",
+      "profileUrl": "https://www.smartdreamers.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "SmartRecruiters",
-      "segment": "ATS / TA suite"
+      "segment": "ATS / TA suite",
+      "profileUrl": "https://www.smartrecruiters.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Symphony Talent",
-      "segment": "Recruitment marketing / candidate experience"
+      "segment": "Recruitment marketing / candidate experience",
+      "profileUrl": "https://www.symphonytalent.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Talos360",
-      "segment": "ATS suite"
+      "segment": "ATS suite",
+      "profileUrl": "https://talos360.co.uk/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Teamtailor",
-      "segment": "ATS suite"
+      "segment": "ATS suite",
+      "profileUrl": "https://www.teamtailor.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "TribePad",
-      "segment": "ATS suite"
+      "segment": "ATS suite",
+      "profileUrl": "https://tribepad.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Umantis",
-      "segment": "ATS suite"
+      "segment": "ATS suite",
+      "profileUrl": "https://www.umantis.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "VONQ",
-      "segment": "Recruitment marketing"
+      "segment": "Recruitment marketing",
+      "profileUrl": "https://www.vonq.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Vervoe",
-      "segment": "Talent assessment"
+      "segment": "Talent assessment",
+      "profileUrl": "https://vervoe.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Workable",
       "segment": "ATS suite",
       "gartner2026": "Included",
-      "gartnerUrl": "https://www.gartner.com/en/documents/7831517"
+      "gartnerUrl": "https://www.gartner.com/en/documents/7831517",
+      "profileUrl": "https://www.workable.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Workday",
       "segment": "HCM / TA suite",
       "gartner2026": "Leader (vendor-announced)",
-      "gartnerUrl": "https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-Named-a-Leader-in-the-2026-Gartner-Magic-Quadrant-for-Talent-Acquisition-Recruiting-Suites/default.aspx"
+      "gartnerUrl": "https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-Named-a-Leader-in-the-2026-Gartner-Magic-Quadrant-for-Talent-Acquisition-Recruiting-Suites/default.aspx",
+      "profileUrl": "https://www.workday.com/en-us/products/talent-management/talent-acquisition.html",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Workday Recruiting",
-      "segment": "HCM / TA suite"
+      "segment": "HCM / TA suite",
+      "profileUrl": "https://www.workday.com/en-us/products/talent-management/talent-acquisition.html",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "Zoho Recruit",
-      "segment": "ATS / staffing CRM"
+      "segment": "ATS / staffing CRM",
+      "profileUrl": "https://www.zoho.com/recruit/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "d.vinci",
-      "segment": "ATS suite"
+      "segment": "ATS suite",
+      "profileUrl": "https://www.dvinci.de/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "eArcu",
-      "segment": "ATS suite"
+      "segment": "ATS suite",
+      "profileUrl": "https://www.earcu.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "iCIMS",
@@ -352,23 +632,44 @@
       "gartner2026": "Leader (vendor-announced)",
       "gartnerUrl": "https://www.icims.com/company/newsroom/gartnerannouncement2026/",
       "fosway2025": "Strategic Leader (vendor-announced)",
-      "foswayUrl": "https://www.icims.com/2025-fosway/"
+      "foswayUrl": "https://www.icims.com/2025-fosway/",
+      "profileUrl": "https://www.icims.com/products/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "iSmartRecruit",
-      "segment": "ATS / staffing CRM"
+      "segment": "ATS / staffing CRM",
+      "profileUrl": "https://www.ismartrecruit.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "onlyfy",
-      "segment": "ATS / recruiting"
+      "segment": "ATS / recruiting",
+      "profileUrl": "https://www.onlyfy.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "softgarden",
-      "segment": "ATS suite"
+      "segment": "ATS suite",
+      "profileUrl": "https://softgarden.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     },
     {
       "name": "talentsconnect",
-      "segment": "Career sites / candidate experience"
+      "segment": "Career sites / candidate experience",
+      "profileUrl": "https://talentsconnect.com/",
+      "publicProfileSummary": "",
+      "profileReachable": false,
+      "profileCheckedAt": ""
     }
-  ]
+  ],
+  "profileRefreshNote": "Vendor summaries are extracted from official product-page metadata when accessible; source reachability and summaries are refreshed every six hours. Analyst ratings follow each provider’s publication cycle."
 }
