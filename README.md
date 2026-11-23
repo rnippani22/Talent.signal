@@ -5,7 +5,8 @@ This bundle changes Talent Signal from a static mockup into a public-source sign
 ## What changes
 
 - The date in the page header is generated in the visitor's local timezone each time the page opens.
-- Latest public articles, topic counts and vendor mentions load from `data/updates.json`.
+- Latest public articles, topic counts, topic-filtered competitive evidence and named vendor mentions load from `data/updates.json`.
+- Vendor evidence is a source-linked watchlist, not a ranking; the radar does not invent comparable CSAT or implementation scores.
 - A global events panel shows upcoming conferences, verified organizer details, and recaps from recent major events. Event details refresh from organizer pages when those pages expose structured event data; linked curated dates remain as fallback.
 - The event panel also surfaces new event-related stories found in monitored feeds.
 - GitHub Actions is configured to rebuild that JSON snapshot every six hours, and on manual dispatch.
@@ -20,14 +21,13 @@ Copy `index.html` to the repository root, and add `.github/workflows/refresh-sou
 
 The repository's Actions settings must allow workflows to write repository contents. If Actions are restricted to read-only tokens, the collector cannot commit an updated snapshot.
 
-The workflow refreshes the feed every six hours. It does not update the static Pages site build; the page reads the latest JSON snapshot directly from the repository's raw file URL with a cache-busting query parameter.
+The workflow refreshes public feeds and event sources every six hours, commits the latest JSON snapshots, and GitHub Pages republishes the site from the updated repository. The page reads `data/updates.json` and `data/events.json` from the deployed site with cache-busting requests.
 
 ## Current public sources
 
 - HR Dive public RSS feed
-- HR Executive public RSS feed
-- iCIMS Hiring Insights public blog feed
+- HR Tech Feed public RSS feed
 
-The dashboard shows which sources reported successfully. Coverage is intentionally limited at first; feed failures are surfaced instead of hidden. Vendor mention matching is simple keyword matching and should be expanded as the source list grows.
+The dashboard shows how many public sources reported successfully. Coverage is limited to free sources; failures are surfaced. Topic and vendor matching is keyword-based, so verify important claims against the linked original source.
 
 No paid analyst scores or customer-rating feeds are included.
