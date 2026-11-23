@@ -3,6 +3,7 @@
 import html
 import json
 import re
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -262,6 +263,59 @@ def refresh_analyst_sources():
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Checked {data['checkedSourceCount']}/{data['sourceTotal']} public analyst source links")
 
+def meta_content(page, wanted):
+    """Read a named or Open Graph description from an official vendor page."""
+    for tag in re.findall(r"<meta\b[^>]*>", page, re.I):
+        attrs = {key.lower(): html.unescape(value) for key, _, value in re.findall(
+            r"([\w:-]+)\s*=\s*([\"'])(.*?)\2", tag, re.I
+        )}
+        key = attrs.get("name", attrs.get("property", "")).lower()
+        if key in wanted and attrs.get("content", "").strip():
+            return clean(attrs["content"])[:420]
+    return ""
+
+def refresh_vendor_profiles():
+    """Pull short public descriptions from official vendor product pages."""
+    path = ROOT / "data" / "analyst_assessments.json"
+    if not path.exists():
+        return
+    data = json.loads(path.read_text(encoding="utf-8"))
+    vendors = [vendor for vendor in data.get("vendors", []) if vendor.get("profileUrl")]
+    now = datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
+
+    def fetch(vendor):
+        request = urllib.request.Request(vendor["profileUrl"], headers={"User-Agent": "TalentSignal/1.0 (+public vendor product-page monitor)", "Accept": "text/html,application/xhtml+xml"})
+        with urllib.request.urlopen(request, timeout=12) as response:
+            page = response.read(300_000).decode("utf-8", "replace")
+        summary = meta_content(page, {"description", "og:description", "twitter:description"})
+        return vendor["name"], True, summary
+
+    checked, reachable, errors = 0, 0, []
+    with ThreadPoolExecutor(max_workers=12) as pool:
+        futures = {pool.submit(fetch, vendor): vendor for vendor in vendors}
+        for future in as_completed(futures):
+            vendor = futures[future]
+            checked += 1
+            try:
+                name, ok, summary = future.result()
+                vendor["profileReachable"] = ok
+                vendor["profileCheckedAt"] = now
+                if summary:
+                    vendor["publicProfileSummary"] = summary
+                if ok:
+                    reachable += 1
+            except Exception as exc:
+                vendor["profileReachable"] = False
+                vendor["profileCheckedAt"] = now
+                errors.append({"name": vendor["name"], "reason": str(exc)[:120]})
+    data["profileCheckedAt"] = now
+    data["profileSourceCount"] = reachable
+    data["profileSourceTotal"] = checked
+    data["profileErrors"] = errors
+    path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    with_summary = sum(1 for vendor in vendors if vendor.get("publicProfileSummary"))
+    print(f"Refreshed {with_summary} public product summaries; {reachable}/{checked} official vendor pages reachable")
+
 def main():
     rows, errors = [], []
     for feed in FEEDS:
@@ -283,6 +337,7 @@ def main():
     print(f"Wrote {len(ordered)} items from {data['sourceCount']}/{data['sourceTotal']} public feeds")
     refresh_events()
     refresh_analyst_sources()
+    refresh_vendor_profiles()
 
 if __name__ == "__main__":
     main()

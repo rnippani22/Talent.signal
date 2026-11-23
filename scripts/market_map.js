@@ -20,7 +20,9 @@
     });
     const allVendors = [...vendors.values()].sort((a,b) => a.name.localeCompare(b.name));
     document.getElementById('metric-vendors').textContent = allVendors.length;
-    document.getElementById('assessment-status').textContent = allVendors.length + ' providers mapped';
+    const profileCount = allVendors.filter(vendor => vendor.publicProfileSummary).length;
+    const profileCheckedAt = data.profileCheckedAt || data.lastCheckedAt;
+    document.getElementById('assessment-status').textContent = allVendors.length + ' providers · ' + profileCount + ' public profiles';
     document.getElementById('assessment-reports').innerHTML = (data.reports || []).map(report =>
       '<div class="assessment-report"><b>'+escapeHtml(report.analyst)+' · '+escapeHtml(report.year)+'</b><span>'+escapeHtml(report.title)+'</span><span>'+escapeHtml(report.publicNote)+'</span><span>Source link '+(report.sourceReachable ? 'checked' : 'check pending')+' · '+displayDate(report.lastCheckedAt || data.lastCheckedAt)+'</span><a href="'+escapeHtml(report.url)+'" target="_blank" rel="noopener">Open source ↗</a></div>'
     ).join('');
@@ -28,7 +30,7 @@
     const body = document.getElementById('assessment-rows');
     const render = () => {
       const query = search.value.trim().toLowerCase();
-      const rows = allVendors.filter(vendor => (vendor.name+' '+vendor.segment).toLowerCase().includes(query));
+      const rows = allVendors.filter(vendor => (vendor.name+' '+vendor.segment+' '+(vendor.publicProfileSummary || '')).toLowerCase().includes(query));
       document.getElementById('vendor-count').textContent = 'Showing '+rows.length+' of '+allVendors.length+' providers';
       body.innerHTML = rows.map(vendor => {
         const evidence = [];
@@ -37,8 +39,12 @@
         if (vendor.fosway2025) evidence.push({label:'Fosway 2025: '+vendor.fosway2025, url:vendor.foswayUrl});
         if (!evidence.length) evidence.push({label:'No public position located in the current source set'});
         const sourceLinks = evidence.filter(item => item.url).map(item => '<a href="'+escapeHtml(item.url)+'" target="_blank" rel="noopener">'+escapeHtml(item.label)+' ↗</a>').join('<br>');
-        return '<tr><td><span class="vendor">'+escapeHtml(vendor.name)+'</span></td><td>'+escapeHtml(vendor.segment)+'</td><td>'+evidence.map(item => '<span class="assessment-badge">'+escapeHtml(item.label)+'</span>').join('')+'</td><td>'+(sourceLinks || '<span class="assessment-empty">No public assessment link located</span>')+'</td></tr>';
-      }).join('') || '<tr><td colspan="4">No providers match this search.</td></tr>';
+        const profile = vendor.publicProfileSummary
+          ? '<span>'+escapeHtml(vendor.publicProfileSummary)+'</span><small class="profile-meta">Official product page · checked '+escapeHtml(displayDate(vendor.profileCheckedAt || profileCheckedAt))+'</small>'
+          : '<span class="assessment-empty">No readable public product summary found in the current source set</span>';
+        const profileSource = vendor.profileUrl ? '<a href="'+escapeHtml(vendor.profileUrl)+'" target="_blank" rel="noopener">Official product page ↗</a>' : '<span class="assessment-empty">No official profile link located</span>';
+        return '<tr><td><span class="vendor">'+escapeHtml(vendor.name)+'</span></td><td>'+escapeHtml(vendor.segment)+'</td><td class="profile-cell">'+profile+'</td><td>'+evidence.map(item => '<span class="assessment-badge">'+escapeHtml(item.label)+'</span>').join('')+'</td><td>'+profileSource+(sourceLinks ? '<br>'+sourceLinks : '')+'</td></tr>';
+      }).join('') || '<tr><td colspan="5">No providers match this search.</td></tr>';
     };
     search.addEventListener('input', render);
     render();
