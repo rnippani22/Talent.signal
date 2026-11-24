@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-24T09:55:15Z",
-  "sourceCount": 1,
+  "generatedAt": "2026-11-24T22:27:32Z",
+  "sourceCount": 2,
   "sourceTotal": 2,
-  "itemCount": 4,
+  "itemCount": 23,
   "sources": [
     {
       "name": "HR Dive",
@@ -15,13 +15,114 @@
       "region": "Global"
     }
   ],
-  "errors": [
-    {
-      "source": "HR Tech Feed",
-      "reason": "<urlopen error timed out>"
-    }
-  ],
+  "errors": [],
   "items": [
+    {
+      "title": "Former Uber worker alleges disability bias after termination following work-from-home accommodation",
+      "summary": "The worker was fired a couple weeks into her new arrangement, but Uber relied on her not following a policy she’d never been trained on, she said.",
+      "url": "https://www.hrdive.com/news/former-uber-worker-disability-bias-termination-work-from-home/875617/",
+      "published": "2026-11-24T20:04:00Z",
+      "source": "HR Dive",
+      "sourceHome": "https://www.hrdive.com/",
+      "region": "US",
+      "categories": [
+        "Compliance"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "Many companies use AI, but few pair it with culture changes, report says",
+      "summary": "CHROs who emphasize the connection between culture and artificial intelligence tool use were “twice as likely to sustain superior market performance,” per a new report.",
+      "url": "https://www.hrdive.com/news/many-companies-use-ai-but-few-pair-it-with-culture-changes-report-says/875631/",
+      "published": "2026-11-24T20:04:00Z",
+      "source": "HR Dive",
+      "sourceHome": "https://www.hrdive.com/",
+      "region": "US",
+      "categories": [
+        "AI & automation"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "Training is key to AI adoption — but is still hitting roadblocks",
+      "summary": "Unbalanced access to artificial intelligence tool training may limit broader uptake and stifle company transformation, some studies show.",
+      "url": "https://www.hrdive.com/news/training-is-key-to-ai-adoption-but-is-still-hitting-roadblocks/875542/",
+      "published": "2026-11-24T15:49:00Z",
+      "source": "HR Dive",
+      "sourceHome": "https://www.hrdive.com/",
+      "region": "US",
+      "categories": [
+        "AI & automation"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "VensureHR Launches Major Hiring Push to Fill Over 400 Roles in AZ, GA",
+      "summary": "In an era when landing a job often means disappearing into the black hole of automated applicant tracking systems, HR technology leader VensureHR is taking a decidedly face-to-face approach to its next major expansion. On Tuesday, December 8, the company is throwing open the doors of its sprawling Chandler, Arizona headquarters—at 1475 S. Price Road—for […] The post VensureHR Launches Major Hiring Push to Fill Over 400 Roles in AZ, GA appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/vensurehr-launches-major-hiring-push-to-fill-over-400-roles-in-az-ga/?utm_source=rss&utm_medium=rss&utm_campaign=vensurehr-launches-major-hiring-push-to-fill-over-400-roles-in-az-ga",
+      "published": "2026-11-24T14:23:50Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Product releases"
+      ],
+      "vendors": [
+        "SAP"
+      ]
+    },
+    {
+      "title": "The More AI Does, the More Human Leadership Matters",
+      "summary": "AI isn’t shrinking human work. It’s fueling a renaissance of it, pushing people to become more human, not less. AI is taking over the loop, the repetitive, detailed work that used to build institutional knowledge. That leaves people to work above the loop: guiding AI, questioning its output and deciding how to use what it […] The post The More AI Does, the More Human Leadership Matters appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/the-more-ai-does-the-more-human-leadership-matters/?utm_source=rss&utm_medium=rss&utm_campaign=the-more-ai-does-the-more-human-leadership-matters",
+      "published": "2026-11-24T14:00:00Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "New HR Tech from Landed, Wurk",
+      "summary": "LANDED, the AI hiring platform for frontline employers, today announced the launch of LANDED Offer and LANDED Onboarding, two new products that extend its platform to cover the full hiring journey, from sourcing candidates to getting new hires signed and ready for their first shift. Since the suite launched earlier this year, hundreds of thousands […] The post New HR Tech from Landed, Wurk appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/new-hr-tech-from-landed-wurk/?utm_source=rss&utm_medium=rss&utm_campaign=new-hr-tech-from-landed-wurk",
+      "published": "2026-11-24T13:22:21Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Product releases"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "ADP Acquires ZenBusiness",
+      "summary": "ROSELAND, N.J. — HR and payroll giant ADP has acquired ZenBusiness, adding business formation and compliance capabilities to its small-business suite in a push to connect with founders from the moment they launch. Announced on November 19, 2026, the deal brings Austin-based ZenBusiness—which operates an AI-powered platform that has helped more than one million entrepreneurs […] The post ADP Acquires ZenBusiness appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/adp-acquires-zenbusiness-2/?utm_source=rss&utm_medium=rss&utm_campaign=adp-acquires-zenbusiness-2",
+      "published": "2026-11-24T13:21:59Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Market moves"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "Adam Treitler – Beyond faster analysis: Connecting workforce insight to coordinated action",
+      "summary": "David and Adam discuss how AI is changing workforce analysis—from finding information in HR systems to identifying patterns and shaping possible responses. They emphasize that faster analysis is only a starting point: useful insights require people who understand the business, can validate what AI produces, and can coordinate across HR, The post Adam Treitler – Beyond faster analysis: Connecting workforce insight to coordinated action appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/adam-treitler-beyond-faster-analysis-connecting-workforce-insight-to-coordinated-action/?utm_source=rss&utm_medium=rss&utm_campaign=adam-treitler-beyond-faster-analysis-connecting-workforce-insight-to-coordinated-action",
+      "published": "2026-11-24T12:00:00Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation"
+      ],
+      "vendors": []
+    },
     {
       "title": "Congress’ landmark law protecting pregnant workers is unconstitutional, court holds",
       "summary": "The decision renders the Pregnant Workers Fairness Act unenforceable against the state of Texas, but other employers must still comply with the law, observers cautioned.",
@@ -49,30 +150,184 @@
       "vendors": []
     },
     {
-      "title": "AI, manager burnout and workforce mental health in 2027",
-      "summary": "Two emerging trends for 2027: AI is changing work as manager strain takes a toll on teams.",
-      "url": "https://www.hrdive.com/spons/ai-manager-burnout-and-workforce-mental-health-in-2027/875210/",
-      "published": "2026-11-23T10:00:00Z",
-      "source": "HR Dive",
-      "sourceHome": "https://www.hrdive.com/",
-      "region": "US",
+      "title": "AI Note Takers For Recruiters – Worth it?",
+      "summary": "AI Note Takers for Recruiters: Worth It? What happens when recruiters stop taking notes and start listening? Sponsored by Bluedot Before I stepped away from day-to-day recruiting, I completed thousands of candidate screens. And I can tell you, there was one part of the job I absolutely hated. Writing the candidate sell sheet. It was […] The post AI Note Takers For Recruiters – Worth it? appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/ai-note-takers-for-recruiters-worth-it/?utm_source=rss&utm_medium=rss&utm_campaign=ai-note-takers-for-recruiters-worth-it",
+      "published": "2026-11-23T19:22:44Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
       "categories": [
         "AI & automation"
       ],
       "vendors": []
     },
     {
-      "title": "Executives get more AI training than other workers, hurting adoption, report finds",
-      "summary": "The disparity may explain why some employers see a “stalled transformation” within their enterprises, according to researchers at Marsh.",
-      "url": "https://www.hrdive.com/news/executives-get-more-ai-training-than-other-workers-hurting-adoption/875395/",
-      "published": "2026-11-20T21:07:00Z",
-      "source": "HR Dive",
-      "sourceHome": "https://www.hrdive.com/",
-      "region": "US",
+      "title": "What’s New in Rollie – November 23, 2026",
+      "summary": "A lot has shipped since our October release notes. This round makes your board’s search sharper, gives your team new ways to shape what job seekers see, and adds a new way to show how companies are connected. Job Board and Search The post What’s New in Rollie – November 23, 2026 appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/whats-new-in-rollie-november-23-2026/?utm_source=rss&utm_medium=rss&utm_campaign=whats-new-in-rollie-november-23-2026",
+      "published": "2026-11-23T16:15:17Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Product releases"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "Workday Completes Acquisition of C1.ai",
+      "summary": "With C1.ai, Workday Becomes the Identity Governance Layer for People and Agents PLEASANTON, Calif., Nov. 23, 2026 /PRNewswire/ — Workday, Inc. (NASDAQ: WDAY), the trusted agentic platform for HR, finance, and IT, today announced it has completed its acquisition of C1.ai, a leading agentic identity platform for people and AI agents. Every new hire, job change, […] The post Workday Completes Acquisition of C1.ai appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/workday-completes-acquisition-of-c1-ai/?utm_source=rss&utm_medium=rss&utm_campaign=workday-completes-acquisition-of-c1-ai",
+      "published": "2026-11-23T14:24:30Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Market moves"
+      ],
+      "vendors": [
+        "Workday"
+      ]
+    },
+    {
+      "title": "Archer Raises $10M in Funding",
+      "summary": "In a London co-working space, Maya stared at two screens: one flooded with nearly identical, AI-polished resumes for a single product role, and another showing a quiet queue of job seekers who had given up applying altogether. For months, hiring had felt like a game of noise versus silence—until tools like Archer began stepping into […] The post Archer Raises $10M in Funding appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/archer-raises-10m-in-funding/?utm_source=rss&utm_medium=rss&utm_campaign=archer-raises-10m-in-funding",
+      "published": "2026-11-23T14:19:54Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Market moves"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "HR and Procurement: What Human Resource Procurement Actually Covers",
+      "summary": "What “Procurement of Human Resources” Actually Means The term carries two related but distinct meanings, and knowing both matters for anyone working across HR or procurement. The first meaning comes from business management and HR theory: acquiring people. It covers identifying workforce needs, sourcing candidates, evaluating them, and bringing them into the organization—procurement in the […] The post HR and Procurement: What Human Resource Procurement Actually Covers appeared first on HR Tech ",
+      "url": "https://hrtechfeed.com/hr-and-procurement-what-human-resource-procurement-actually-covers/?utm_source=rss&utm_medium=rss&utm_campaign=hr-and-procurement-what-human-resource-procurement-actually-covers",
+      "published": "2026-11-23T14:00:00Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Talent acquisition"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "🔮 2027 Future of Work Predictions | 👥 People Management | 🏆 Managing & Rewarding Performance",
+      "summary": "Our future of work predictions report from last year was full of provocative takes. What happened, what didn’t, and what’s next? Our new report examines how our future of work predictions are playing out, what our new research reveals about how organizations should redesign work to create value with humans and AI, and how HR […] The post 🔮 2027 Future of Work Predictions | 👥 People Management | 🏆 Managing & Rewarding Performance appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/%f0%9f%94%ae-2027-future-of-work-predictions-%f0%9f%91%a5-people-management-%f0%9f%8f%86-managing-rewarding-performance/?utm_source=rss&utm_medium=rss&utm_campaign=%25f0%259f%2594%25ae-2027-future-of-work-predictions-%25f0%259f%2591%25a5-people-management-%25f0%259f%258f%2586-managing-rewarding-performance",
+      "published": "2026-11-23T14:00:00Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
       "categories": [
         "AI & automation"
       ],
       "vendors": []
+    },
+    {
+      "title": "Fall Meetup: Niche Power, AI Matching, and What’s Actually Driving Growth",
+      "summary": "Job boards are often declared “dead” whenever hiring slows down or a new recruiting platform grabs headlines—yet if you look at the operators building and scaling them, the reality is very different. In a recent meetup featuring niche job board founders, software builders, feed providers, and search signal specialists, participants compared notes on what is […] The post Fall Meetup: Niche Power, AI Matching, and What’s Actually Driving Growth appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/fall-meetup-niche-power-ai-matching-and-whats-actually-driving-growth/?utm_source=rss&utm_medium=rss&utm_campaign=fall-meetup-niche-power-ai-matching-and-whats-actually-driving-growth",
+      "published": "2026-11-23T13:36:04Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "UK Payroll April 2027: Why SAP is Targeting February 2027 for the Main Legal Changes",
+      "summary": "SAP wish to share an update with our customers that the main legal changes supporting the April 2027 UK payroll legislation will be delivered in February 2027. This post explains the reasoning, so customers can plan accordingly. The post UK Payroll April 2027: Why SAP is Targeting February 2027 for the Main Legal Changes appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/uk-payroll-april-2027-why-sap-is-targeting-february-2027-for-the-main-legal-changes/?utm_source=rss&utm_medium=rss&utm_campaign=uk-payroll-april-2027-why-sap-is-targeting-february-2027-for-the-main-legal-changes",
+      "published": "2026-11-23T11:17:07Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Compliance"
+      ],
+      "vendors": [
+        "SAP"
+      ]
+    },
+    {
+      "title": "What Is the Best Oracle HCM Cloud Solution for HR Workflows and Approvals?",
+      "summary": "The best starting point for automating HR workflows and approvals in Oracle HCM Cloud is Oracle’s own approval tooling: Manage Approval Transactions for standard changes, and BPM Worklist for advanced rules and escalations. RChilli complements those tools by automating recruiting work such as Enhanced Candidate Profile Import and candidate matching. The post What Is the Best Oracle HCM Cloud Solution for HR Workflows and Approvals? appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/what-is-the-best-oracle-hcm-cloud-solution-for-hr-workflows-and-approvals/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-the-best-oracle-hcm-cloud-solution-for-hr-workflows-and-approvals",
+      "published": "2026-11-23T07:36:49Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Talent acquisition"
+      ],
+      "vendors": [
+        "Oracle"
+      ]
+    },
+    {
+      "title": "Workday’s Honeydew Deal Could Redefine AI Recruiting",
+      "summary": "Workday is transforming Recruiting from a bundled, “good enough” ATS into an AI-driven talent platform through acquisitions including HiredScore, Paradox, Sana, C1.ai, and Honeydew. Honeydew adds a semantic layer that standardizes definitions, governance, and metrics across systems, enabling reliable analytics and agentic AI while helping recruiting influence enterprise-wide workforce decisions. The post Workday’s Honeydew Deal Could Redefine AI Recruiting appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/workdays-honeydew-deal-could-redefine-ai-recruiting/?utm_source=rss&utm_medium=rss&utm_campaign=workdays-honeydew-deal-could-redefine-ai-recruiting",
+      "published": "2026-11-20T18:36:27Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation"
+      ],
+      "vendors": [
+        "Workday",
+        "Paradox"
+      ]
+    },
+    {
+      "title": "Software for Recruitment Agencies: How to Choose the Right One",
+      "summary": "The right recruitment agency software is the one that fits your placement model, your agency size and the workflow that’s slowing your team down most. For most recruitment agencies, that means a single platform that combines an applicant tracking system with a recruitment CRM, so candidates, clients, jobs and placements live in one place. This […] The post Software for Recruitment Agencies: How to Choose the Right One appeared first on PCRM. The post Software for Recruitment Agencies: How to Cho",
+      "url": "https://hrtechfeed.com/software-for-recruitment-agencies-how-to-choose-the-right-one/?utm_source=rss&utm_medium=rss&utm_campaign=software-for-recruitment-agencies-how-to-choose-the-right-one",
+      "published": "2026-11-20T15:05:02Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Talent acquisition"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "Questions to Ask an ATS Vendor: Recruiting Software Evaluation Checklist and RFP Questions for Your Buying Team",
+      "summary": "A recruiting software evaluation checklist is a shared list of questions, scoring criteria and tests your buying team uses to compare applicant tracking systems and recruitment CRMs on the same terms. It turns vendor demos into evidence you can score, so the decision rests on how each system handles your real hiring workflows rather than […] The post Questions to Ask an ATS Vendor: Recruiting Software Evaluation Checklist and RFP Questions for Your Buying Team appeared first on PCRM. The post Qu",
+      "url": "https://hrtechfeed.com/questions-to-ask-an-ats-vendor-recruiting-software-evaluation-checklist-and-rfp-questions-for-your-buying-team/?utm_source=rss&utm_medium=rss&utm_campaign=questions-to-ask-an-ats-vendor-recruiting-software-evaluation-checklist-and-rfp-questions-for-your-buying-team",
+      "published": "2026-11-20T14:55:05Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Talent acquisition"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "SAP Named a 2026 Gartner Peer Insights™ Customers’ Choice for Talent Acquisition (Recruiting) Suites",
+      "summary": "Your voice matters! SAP has been named a 2026 Gartner Peer Insights™ Customers’ Choice for Talent Acquisition, based on 293 verified customer reviews. Discover how your feedback and trust, alongside our recognition as a Gartner Magic Quadrant™ Leader, help shape the future of SAP SuccessFactors Recruiting and talent acquisition innovation. The post SAP Named a 2026 Gartner Peer Insights™ Customers’ Choice for Talent Acquisition (Recruiting) Suites appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/sap-named-a-2026-gartner-peer-insights-customers-choice-for-talent-acquisition-recruiting-suites/?utm_source=rss&utm_medium=rss&utm_campaign=sap-named-a-2026-gartner-peer-insights-customers-choice-for-talent-acquisition-recruiting-suites",
+      "published": "2026-11-20T13:21:55Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Market moves"
+      ],
+      "vendors": [
+        "SAP"
+      ]
     }
   ]
 }

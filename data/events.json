@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T09:55:15Z",
+  "generatedAt": "2026-11-24T22:27:32Z",
   "sourceCount": 3,
   "sourcesChecked": 0,
   "upcoming": [
@@ -202,5 +202,166 @@
       "reason": "HTTP Error 403: Forbidden"
     }
   ],
-  "coverage": []
+  "coverage": [
+    {
+      "title": "VensureHR Launches Major Hiring Push to Fill Over 400 Roles in AZ, GA",
+      "summary": "In an era when landing a job often means disappearing into the black hole of automated applicant tracking systems, HR technology leader VensureHR is taking a decidedly face-to-face approach to its next major expansion. On Tuesday, December 8, the company is throwing open the doors of its sprawling Chandler, Arizona headquarters—at 1475 S. Price Road—for […] The post VensureHR Launches Major Hiring Push to Fill Over 400 Roles in AZ, GA appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/vensurehr-launches-major-hiring-push-to-fill-over-400-roles-in-az-ga/?utm_source=rss&utm_medium=rss&utm_campaign=vensurehr-launches-major-hiring-push-to-fill-over-400-roles-in-az-ga",
+      "published": "2026-11-24T14:23:50Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Product releases"
+      ],
+      "vendors": [
+        "SAP"
+      ]
+    },
+    {
+      "title": "The More AI Does, the More Human Leadership Matters",
+      "summary": "AI isn’t shrinking human work. It’s fueling a renaissance of it, pushing people to become more human, not less. AI is taking over the loop, the repetitive, detailed work that used to build institutional knowledge. That leaves people to work above the loop: guiding AI, questioning its output and deciding how to use what it […] The post The More AI Does, the More Human Leadership Matters appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/the-more-ai-does-the-more-human-leadership-matters/?utm_source=rss&utm_medium=rss&utm_campaign=the-more-ai-does-the-more-human-leadership-matters",
+      "published": "2026-11-24T14:00:00Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "New HR Tech from Landed, Wurk",
+      "summary": "LANDED, the AI hiring platform for frontline employers, today announced the launch of LANDED Offer and LANDED Onboarding, two new products that extend its platform to cover the full hiring journey, from sourcing candidates to getting new hires signed and ready for their first shift. Since the suite launched earlier this year, hundreds of thousands […] The post New HR Tech from Landed, Wurk appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/new-hr-tech-from-landed-wurk/?utm_source=rss&utm_medium=rss&utm_campaign=new-hr-tech-from-landed-wurk",
+      "published": "2026-11-24T13:22:21Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Product releases"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "ADP Acquires ZenBusiness",
+      "summary": "ROSELAND, N.J. — HR and payroll giant ADP has acquired ZenBusiness, adding business formation and compliance capabilities to its small-business suite in a push to connect with founders from the moment they launch. Announced on November 19, 2026, the deal brings Austin-based ZenBusiness—which operates an AI-powered platform that has helped more than one million entrepreneurs […] The post ADP Acquires ZenBusiness appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/adp-acquires-zenbusiness-2/?utm_source=rss&utm_medium=rss&utm_campaign=adp-acquires-zenbusiness-2",
+      "published": "2026-11-24T13:21:59Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Market moves"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "Adam Treitler – Beyond faster analysis: Connecting workforce insight to coordinated action",
+      "summary": "David and Adam discuss how AI is changing workforce analysis—from finding information in HR systems to identifying patterns and shaping possible responses. They emphasize that faster analysis is only a starting point: useful insights require people who understand the business, can validate what AI produces, and can coordinate across HR, The post Adam Treitler – Beyond faster analysis: Connecting workforce insight to coordinated action appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/adam-treitler-beyond-faster-analysis-connecting-workforce-insight-to-coordinated-action/?utm_source=rss&utm_medium=rss&utm_campaign=adam-treitler-beyond-faster-analysis-connecting-workforce-insight-to-coordinated-action",
+      "published": "2026-11-24T12:00:00Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "AI Note Takers For Recruiters – Worth it?",
+      "summary": "AI Note Takers for Recruiters: Worth It? What happens when recruiters stop taking notes and start listening? Sponsored by Bluedot Before I stepped away from day-to-day recruiting, I completed thousands of candidate screens. And I can tell you, there was one part of the job I absolutely hated. Writing the candidate sell sheet. It was […] The post AI Note Takers For Recruiters – Worth it? appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/ai-note-takers-for-recruiters-worth-it/?utm_source=rss&utm_medium=rss&utm_campaign=ai-note-takers-for-recruiters-worth-it",
+      "published": "2026-11-23T19:22:44Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "What’s New in Rollie – November 23, 2026",
+      "summary": "A lot has shipped since our October release notes. This round makes your board’s search sharper, gives your team new ways to shape what job seekers see, and adds a new way to show how companies are connected. Job Board and Search The post What’s New in Rollie – November 23, 2026 appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/whats-new-in-rollie-november-23-2026/?utm_source=rss&utm_medium=rss&utm_campaign=whats-new-in-rollie-november-23-2026",
+      "published": "2026-11-23T16:15:17Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Product releases"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "Workday Completes Acquisition of C1.ai",
+      "summary": "With C1.ai, Workday Becomes the Identity Governance Layer for People and Agents PLEASANTON, Calif., Nov. 23, 2026 /PRNewswire/ — Workday, Inc. (NASDAQ: WDAY), the trusted agentic platform for HR, finance, and IT, today announced it has completed its acquisition of C1.ai, a leading agentic identity platform for people and AI agents. Every new hire, job change, […] The post Workday Completes Acquisition of C1.ai appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/workday-completes-acquisition-of-c1-ai/?utm_source=rss&utm_medium=rss&utm_campaign=workday-completes-acquisition-of-c1-ai",
+      "published": "2026-11-23T14:24:30Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Market moves"
+      ],
+      "vendors": [
+        "Workday"
+      ]
+    },
+    {
+      "title": "Archer Raises $10M in Funding",
+      "summary": "In a London co-working space, Maya stared at two screens: one flooded with nearly identical, AI-polished resumes for a single product role, and another showing a quiet queue of job seekers who had given up applying altogether. For months, hiring had felt like a game of noise versus silence—until tools like Archer began stepping into […] The post Archer Raises $10M in Funding appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/archer-raises-10m-in-funding/?utm_source=rss&utm_medium=rss&utm_campaign=archer-raises-10m-in-funding",
+      "published": "2026-11-23T14:19:54Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Market moves"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "HR and Procurement: What Human Resource Procurement Actually Covers",
+      "summary": "What “Procurement of Human Resources” Actually Means The term carries two related but distinct meanings, and knowing both matters for anyone working across HR or procurement. The first meaning comes from business management and HR theory: acquiring people. It covers identifying workforce needs, sourcing candidates, evaluating them, and bringing them into the organization—procurement in the […] The post HR and Procurement: What Human Resource Procurement Actually Covers appeared first on HR Tech ",
+      "url": "https://hrtechfeed.com/hr-and-procurement-what-human-resource-procurement-actually-covers/?utm_source=rss&utm_medium=rss&utm_campaign=hr-and-procurement-what-human-resource-procurement-actually-covers",
+      "published": "2026-11-23T14:00:00Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Talent acquisition"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "🔮 2027 Future of Work Predictions | 👥 People Management | 🏆 Managing & Rewarding Performance",
+      "summary": "Our future of work predictions report from last year was full of provocative takes. What happened, what didn’t, and what’s next? Our new report examines how our future of work predictions are playing out, what our new research reveals about how organizations should redesign work to create value with humans and AI, and how HR […] The post 🔮 2027 Future of Work Predictions | 👥 People Management | 🏆 Managing & Rewarding Performance appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/%f0%9f%94%ae-2027-future-of-work-predictions-%f0%9f%91%a5-people-management-%f0%9f%8f%86-managing-rewarding-performance/?utm_source=rss&utm_medium=rss&utm_campaign=%25f0%259f%2594%25ae-2027-future-of-work-predictions-%25f0%259f%2591%25a5-people-management-%25f0%259f%258f%2586-managing-rewarding-performance",
+      "published": "2026-11-23T14:00:00Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "Fall Meetup: Niche Power, AI Matching, and What’s Actually Driving Growth",
+      "summary": "Job boards are often declared “dead” whenever hiring slows down or a new recruiting platform grabs headlines—yet if you look at the operators building and scaling them, the reality is very different. In a recent meetup featuring niche job board founders, software builders, feed providers, and search signal specialists, participants compared notes on what is […] The post Fall Meetup: Niche Power, AI Matching, and What’s Actually Driving Growth appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/fall-meetup-niche-power-ai-matching-and-whats-actually-driving-growth/?utm_source=rss&utm_medium=rss&utm_campaign=fall-meetup-niche-power-ai-matching-and-whats-actually-driving-growth",
+      "published": "2026-11-23T13:36:04Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation"
+      ],
+      "vendors": []
+    }
+  ]
 }
