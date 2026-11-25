@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-25T08:35:23Z",
+  "generatedAt": "2026-11-25T21:43:24Z",
   "sourceCount": 2,
   "sourceTotal": 2,
-  "itemCount": 23,
+  "itemCount": 22,
   "sources": [
     {
       "name": "HR Dive",
@@ -17,6 +17,60 @@
   ],
   "errors": [],
   "items": [
+    {
+      "title": "Archer Lands $10M, VensureHR Hiring Sales People",
+      "summary": "This episode is sponsored by our friends at Talroo, looking of an alternative to Indeed, go to talroo.com and see how they can help you recruit FIRST UP On Dec 8th inchandler AZ and on the 15th in Dluth GA VensureHR is hoping an open house at its locations to hir e sales people Candidates […] The post Archer Lands $10M, VensureHR Hiring Sales People appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/archer-lands-10m-vensurehr-hiring-sales-people/?utm_source=rss&utm_medium=rss&utm_campaign=archer-lands-10m-vensurehr-hiring-sales-people",
+      "published": "2026-11-25T20:20:00Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Talent acquisition"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "“Social Offloading” Is Turning Workplace Relationships Into a Game of Telephone",
+      "summary": "A manager needs to tell a direct report they’ve missed two deadlines in a row. Instead of drafting the message themselves, they ask a public, generic AI tool to write it for them, feeding it a rough summary of the situation and asking for something ‘firm but fair.’ The employee reads the message, and it […] The post “Social Offloading” Is Turning Workplace Relationships Into a Game of Telephone appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/social-offloading-is-turning-workplace-relationships-into-a-game-of-telephone/?utm_source=rss&utm_medium=rss&utm_campaign=social-offloading-is-turning-workplace-relationships-into-a-game-of-telephone",
+      "published": "2026-11-25T14:00:00Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "Search and Match SAP SuccessFactors: Rank Candidates Faster",
+      "summary": "Seventy applicants. One requisition. And a list sorted by the date people clicked “apply.” The post Search and Match SAP SuccessFactors: Rank Candidates Faster appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/search-and-match-sap-successfactors-rank-candidates-faster/?utm_source=rss&utm_medium=rss&utm_campaign=search-and-match-sap-successfactors-rank-candidates-faster",
+      "published": "2026-11-25T13:45:13Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Talent acquisition"
+      ],
+      "vendors": [
+        "SAP"
+      ]
+    },
+    {
+      "title": "2026 Talent Acquisition Trends: Job Applications Rising Faster than Employers Can React [Report]",
+      "summary": "Over the past two years, in our own hiring and in our work with client organizations, we’ve watched the same pattern play out again and again. Job postings pull in more applicants than ever, but a smaller share of them deserve a closer look. Earlier in 2026, we surveyed 998 talent acquisition leaders and 1,000 active […] The post 2026 Talent Acquisition Trends: Job Applications Rising Faster than Employers Can React [Report] appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/2026-talent-acquisition-trends-job-applications-rising-faster-than-employers-can-react-report/?utm_source=rss&utm_medium=rss&utm_campaign=2026-talent-acquisition-trends-job-applications-rising-faster-than-employers-can-react-report",
+      "published": "2026-11-25T12:56:45Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Market moves"
+      ],
+      "vendors": []
+    },
     {
       "title": "SAP Enable Now – Adoption Sessions 2027 (Americas)",
       "summary": "SAP Enable Now and WalkMe weekly Adoption Sessions series calendar for 2027 (Americas time zone). The post SAP Enable Now – Adoption Sessions 2027 (Americas) appeared first on HR Tech Feed .",
@@ -135,32 +189,6 @@
       "region": "Global",
       "categories": [
         "AI & automation"
-      ],
-      "vendors": []
-    },
-    {
-      "title": "Congress’ landmark law protecting pregnant workers is unconstitutional, court holds",
-      "summary": "The decision renders the Pregnant Workers Fairness Act unenforceable against the state of Texas, but other employers must still comply with the law, observers cautioned.",
-      "url": "https://www.hrdive.com/news/congress-landmark-law-protecting-pregnant-workers-unconstitutional/875528/",
-      "published": "2026-11-23T20:36:00Z",
-      "source": "HR Dive",
-      "sourceHome": "https://www.hrdive.com/",
-      "region": "US",
-      "categories": [
-        "Compliance"
-      ],
-      "vendors": []
-    },
-    {
-      "title": "Trump administration puts more than 1.5K contractors on notice over E-Verify compliance",
-      "summary": "The federal government gave the firms 30 days to respond to its notice to provide proof of compliance.",
-      "url": "https://www.hrdive.com/news/trump-administration-puts-more-than-15k-contractors-on-notice-over-e-verify-compliance/875510/",
-      "published": "2026-11-23T20:35:00Z",
-      "source": "HR Dive",
-      "sourceHome": "https://www.hrdive.com/",
-      "region": "US",
-      "categories": [
-        "Compliance"
       ],
       "vendors": []
     },
@@ -286,48 +314,6 @@
       "vendors": [
         "Oracle"
       ]
-    },
-    {
-      "title": "Workday’s Honeydew Deal Could Redefine AI Recruiting",
-      "summary": "Workday is transforming Recruiting from a bundled, “good enough” ATS into an AI-driven talent platform through acquisitions including HiredScore, Paradox, Sana, C1.ai, and Honeydew. Honeydew adds a semantic layer that standardizes definitions, governance, and metrics across systems, enabling reliable analytics and agentic AI while helping recruiting influence enterprise-wide workforce decisions. The post Workday’s Honeydew Deal Could Redefine AI Recruiting appeared first on HR Tech Feed .",
-      "url": "https://hrtechfeed.com/workdays-honeydew-deal-could-redefine-ai-recruiting/?utm_source=rss&utm_medium=rss&utm_campaign=workdays-honeydew-deal-could-redefine-ai-recruiting",
-      "published": "2026-11-20T18:36:27Z",
-      "source": "HR Tech Feed",
-      "sourceHome": "https://hrtechfeed.com/",
-      "region": "Global",
-      "categories": [
-        "AI & automation"
-      ],
-      "vendors": [
-        "Workday",
-        "Paradox"
-      ]
-    },
-    {
-      "title": "Software for Recruitment Agencies: How to Choose the Right One",
-      "summary": "The right recruitment agency software is the one that fits your placement model, your agency size and the workflow that’s slowing your team down most. For most recruitment agencies, that means a single platform that combines an applicant tracking system with a recruitment CRM, so candidates, clients, jobs and placements live in one place. This […] The post Software for Recruitment Agencies: How to Choose the Right One appeared first on PCRM. The post Software for Recruitment Agencies: How to Cho",
-      "url": "https://hrtechfeed.com/software-for-recruitment-agencies-how-to-choose-the-right-one/?utm_source=rss&utm_medium=rss&utm_campaign=software-for-recruitment-agencies-how-to-choose-the-right-one",
-      "published": "2026-11-20T15:05:02Z",
-      "source": "HR Tech Feed",
-      "sourceHome": "https://hrtechfeed.com/",
-      "region": "Global",
-      "categories": [
-        "Talent acquisition"
-      ],
-      "vendors": []
-    },
-    {
-      "title": "Questions to Ask an ATS Vendor: Recruiting Software Evaluation Checklist and RFP Questions for Your Buying Team",
-      "summary": "A recruiting software evaluation checklist is a shared list of questions, scoring criteria and tests your buying team uses to compare applicant tracking systems and recruitment CRMs on the same terms. It turns vendor demos into evidence you can score, so the decision rests on how each system handles your real hiring workflows rather than […] The post Questions to Ask an ATS Vendor: Recruiting Software Evaluation Checklist and RFP Questions for Your Buying Team appeared first on PCRM. The post Qu",
-      "url": "https://hrtechfeed.com/questions-to-ask-an-ats-vendor-recruiting-software-evaluation-checklist-and-rfp-questions-for-your-buying-team/?utm_source=rss&utm_medium=rss&utm_campaign=questions-to-ask-an-ats-vendor-recruiting-software-evaluation-checklist-and-rfp-questions-for-your-buying-team",
-      "published": "2026-11-20T14:55:05Z",
-      "source": "HR Tech Feed",
-      "sourceHome": "https://hrtechfeed.com/",
-      "region": "Global",
-      "categories": [
-        "Talent acquisition"
-      ],
-      "vendors": []
     }
   ]
 }

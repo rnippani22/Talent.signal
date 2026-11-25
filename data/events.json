@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T08:35:23Z",
+  "generatedAt": "2026-11-25T21:43:24Z",
   "sourceCount": 3,
   "sourcesChecked": 0,
   "upcoming": [
@@ -204,6 +204,60 @@
   ],
   "coverage": [
     {
+      "title": "Archer Lands $10M, VensureHR Hiring Sales People",
+      "summary": "This episode is sponsored by our friends at Talroo, looking of an alternative to Indeed, go to talroo.com and see how they can help you recruit FIRST UP On Dec 8th inchandler AZ and on the 15th in Dluth GA VensureHR is hoping an open house at its locations to hir e sales people Candidates […] The post Archer Lands $10M, VensureHR Hiring Sales People appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/archer-lands-10m-vensurehr-hiring-sales-people/?utm_source=rss&utm_medium=rss&utm_campaign=archer-lands-10m-vensurehr-hiring-sales-people",
+      "published": "2026-11-25T20:20:00Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Talent acquisition"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "“Social Offloading” Is Turning Workplace Relationships Into a Game of Telephone",
+      "summary": "A manager needs to tell a direct report they’ve missed two deadlines in a row. Instead of drafting the message themselves, they ask a public, generic AI tool to write it for them, feeding it a rough summary of the situation and asking for something ‘firm but fair.’ The employee reads the message, and it […] The post “Social Offloading” Is Turning Workplace Relationships Into a Game of Telephone appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/social-offloading-is-turning-workplace-relationships-into-a-game-of-telephone/?utm_source=rss&utm_medium=rss&utm_campaign=social-offloading-is-turning-workplace-relationships-into-a-game-of-telephone",
+      "published": "2026-11-25T14:00:00Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "AI & automation"
+      ],
+      "vendors": []
+    },
+    {
+      "title": "Search and Match SAP SuccessFactors: Rank Candidates Faster",
+      "summary": "Seventy applicants. One requisition. And a list sorted by the date people clicked “apply.” The post Search and Match SAP SuccessFactors: Rank Candidates Faster appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/search-and-match-sap-successfactors-rank-candidates-faster/?utm_source=rss&utm_medium=rss&utm_campaign=search-and-match-sap-successfactors-rank-candidates-faster",
+      "published": "2026-11-25T13:45:13Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Talent acquisition"
+      ],
+      "vendors": [
+        "SAP"
+      ]
+    },
+    {
+      "title": "2026 Talent Acquisition Trends: Job Applications Rising Faster than Employers Can React [Report]",
+      "summary": "Over the past two years, in our own hiring and in our work with client organizations, we’ve watched the same pattern play out again and again. Job postings pull in more applicants than ever, but a smaller share of them deserve a closer look. Earlier in 2026, we surveyed 998 talent acquisition leaders and 1,000 active […] The post 2026 Talent Acquisition Trends: Job Applications Rising Faster than Employers Can React [Report] appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/2026-talent-acquisition-trends-job-applications-rising-faster-than-employers-can-react-report/?utm_source=rss&utm_medium=rss&utm_campaign=2026-talent-acquisition-trends-job-applications-rising-faster-than-employers-can-react-report",
+      "published": "2026-11-25T12:56:45Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Market moves"
+      ],
+      "vendors": []
+    },
+    {
       "title": "SAP Enable Now – Adoption Sessions 2027 (Americas)",
       "summary": "SAP Enable Now and WalkMe weekly Adoption Sessions series calendar for 2027 (Americas time zone). The post SAP Enable Now – Adoption Sessions 2027 (Americas) appeared first on HR Tech Feed .",
       "url": "https://hrtechfeed.com/sap-enable-now-adoption-sessions-2027-americas/?utm_source=rss&utm_medium=rss&utm_campaign=sap-enable-now-adoption-sessions-2027-americas",
@@ -308,60 +362,6 @@
       "region": "Global",
       "categories": [
         "Product releases"
-      ],
-      "vendors": []
-    },
-    {
-      "title": "Workday Completes Acquisition of C1.ai",
-      "summary": "With C1.ai, Workday Becomes the Identity Governance Layer for People and Agents PLEASANTON, Calif., Nov. 23, 2026 /PRNewswire/ — Workday, Inc. (NASDAQ: WDAY), the trusted agentic platform for HR, finance, and IT, today announced it has completed its acquisition of C1.ai, a leading agentic identity platform for people and AI agents. Every new hire, job change, […] The post Workday Completes Acquisition of C1.ai appeared first on HR Tech Feed .",
-      "url": "https://hrtechfeed.com/workday-completes-acquisition-of-c1-ai/?utm_source=rss&utm_medium=rss&utm_campaign=workday-completes-acquisition-of-c1-ai",
-      "published": "2026-11-23T14:24:30Z",
-      "source": "HR Tech Feed",
-      "sourceHome": "https://hrtechfeed.com/",
-      "region": "Global",
-      "categories": [
-        "Market moves"
-      ],
-      "vendors": [
-        "Workday"
-      ]
-    },
-    {
-      "title": "Archer Raises $10M in Funding",
-      "summary": "In a London co-working space, Maya stared at two screens: one flooded with nearly identical, AI-polished resumes for a single product role, and another showing a quiet queue of job seekers who had given up applying altogether. For months, hiring had felt like a game of noise versus silence—until tools like Archer began stepping into […] The post Archer Raises $10M in Funding appeared first on HR Tech Feed .",
-      "url": "https://hrtechfeed.com/archer-raises-10m-in-funding/?utm_source=rss&utm_medium=rss&utm_campaign=archer-raises-10m-in-funding",
-      "published": "2026-11-23T14:19:54Z",
-      "source": "HR Tech Feed",
-      "sourceHome": "https://hrtechfeed.com/",
-      "region": "Global",
-      "categories": [
-        "Market moves"
-      ],
-      "vendors": []
-    },
-    {
-      "title": "HR and Procurement: What Human Resource Procurement Actually Covers",
-      "summary": "What “Procurement of Human Resources” Actually Means The term carries two related but distinct meanings, and knowing both matters for anyone working across HR or procurement. The first meaning comes from business management and HR theory: acquiring people. It covers identifying workforce needs, sourcing candidates, evaluating them, and bringing them into the organization—procurement in the […] The post HR and Procurement: What Human Resource Procurement Actually Covers appeared first on HR Tech ",
-      "url": "https://hrtechfeed.com/hr-and-procurement-what-human-resource-procurement-actually-covers/?utm_source=rss&utm_medium=rss&utm_campaign=hr-and-procurement-what-human-resource-procurement-actually-covers",
-      "published": "2026-11-23T14:00:00Z",
-      "source": "HR Tech Feed",
-      "sourceHome": "https://hrtechfeed.com/",
-      "region": "Global",
-      "categories": [
-        "Talent acquisition"
-      ],
-      "vendors": []
-    },
-    {
-      "title": "🔮 2027 Future of Work Predictions | 👥 People Management | 🏆 Managing & Rewarding Performance",
-      "summary": "Our future of work predictions report from last year was full of provocative takes. What happened, what didn’t, and what’s next? Our new report examines how our future of work predictions are playing out, what our new research reveals about how organizations should redesign work to create value with humans and AI, and how HR […] The post 🔮 2027 Future of Work Predictions | 👥 People Management | 🏆 Managing & Rewarding Performance appeared first on HR Tech Feed .",
-      "url": "https://hrtechfeed.com/%f0%9f%94%ae-2027-future-of-work-predictions-%f0%9f%91%a5-people-management-%f0%9f%8f%86-managing-rewarding-performance/?utm_source=rss&utm_medium=rss&utm_campaign=%25f0%259f%2594%25ae-2027-future-of-work-predictions-%25f0%259f%2591%25a5-people-management-%25f0%259f%258f%2586-managing-rewarding-performance",
-      "published": "2026-11-23T14:00:00Z",
-      "source": "HR Tech Feed",
-      "sourceHome": "https://hrtechfeed.com/",
-      "region": "Global",
-      "categories": [
-        "AI & automation"
       ],
       "vendors": []
     }
