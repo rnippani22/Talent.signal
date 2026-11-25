@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T22:27:32Z",
+  "generatedAt": "2026-11-25T08:35:23Z",
   "sourceCount": 2,
   "sourceTotal": 2,
   "itemCount": 23,
@@ -17,6 +17,21 @@
   ],
   "errors": [],
   "items": [
+    {
+      "title": "SAP Enable Now – Adoption Sessions 2027 (Americas)",
+      "summary": "SAP Enable Now and WalkMe weekly Adoption Sessions series calendar for 2027 (Americas time zone). The post SAP Enable Now – Adoption Sessions 2027 (Americas) appeared first on HR Tech Feed .",
+      "url": "https://hrtechfeed.com/sap-enable-now-adoption-sessions-2027-americas/?utm_source=rss&utm_medium=rss&utm_campaign=sap-enable-now-adoption-sessions-2027-americas",
+      "published": "2026-11-24T20:52:55Z",
+      "source": "HR Tech Feed",
+      "sourceHome": "https://hrtechfeed.com/",
+      "region": "Global",
+      "categories": [
+        "Adoption & buying"
+      ],
+      "vendors": [
+        "SAP"
+      ]
+    },
     {
       "title": "Former Uber worker alleges disability bias after termination following work-from-home accommodation",
       "summary": "The worker was fired a couple weeks into her new arrangement, but Uber relied on her not following a policy she’d never been trained on, she said.",
@@ -313,21 +328,6 @@
         "Talent acquisition"
       ],
       "vendors": []
-    },
-    {
-      "title": "SAP Named a 2026 Gartner Peer Insights™ Customers’ Choice for Talent Acquisition (Recruiting) Suites",
-      "summary": "Your voice matters! SAP has been named a 2026 Gartner Peer Insights™ Customers’ Choice for Talent Acquisition, based on 293 verified customer reviews. Discover how your feedback and trust, alongside our recognition as a Gartner Magic Quadrant™ Leader, help shape the future of SAP SuccessFactors Recruiting and talent acquisition innovation. The post SAP Named a 2026 Gartner Peer Insights™ Customers’ Choice for Talent Acquisition (Recruiting) Suites appeared first on HR Tech Feed .",
-      "url": "https://hrtechfeed.com/sap-named-a-2026-gartner-peer-insights-customers-choice-for-talent-acquisition-recruiting-suites/?utm_source=rss&utm_medium=rss&utm_campaign=sap-named-a-2026-gartner-peer-insights-customers-choice-for-talent-acquisition-recruiting-suites",
-      "published": "2026-11-20T13:21:55Z",
-      "source": "HR Tech Feed",
-      "sourceHome": "https://hrtechfeed.com/",
-      "region": "Global",
-      "categories": [
-        "Market moves"
-      ],
-      "vendors": [
-        "SAP"
-      ]
     }
   ]
 }
