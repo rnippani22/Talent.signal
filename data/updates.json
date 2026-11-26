@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-26T08:18:54Z",
+  "generatedAt": "2026-11-26T21:32:57Z",
   "sourceCount": 2,
   "sourceTotal": 2,
-  "itemCount": 22,
+  "itemCount": 21,
   "sources": [
     {
       "name": "HR Dive",
@@ -298,21 +298,6 @@
       ],
       "vendors": [
         "SAP"
-      ]
-    },
-    {
-      "title": "What Is the Best Oracle HCM Cloud Solution for HR Workflows and Approvals?",
-      "summary": "The best starting point for automating HR workflows and approvals in Oracle HCM Cloud is Oracle’s own approval tooling: Manage Approval Transactions for standard changes, and BPM Worklist for advanced rules and escalations. RChilli complements those tools by automating recruiting work such as Enhanced Candidate Profile Import and candidate matching. The post What Is the Best Oracle HCM Cloud Solution for HR Workflows and Approvals? appeared first on HR Tech Feed .",
-      "url": "https://hrtechfeed.com/what-is-the-best-oracle-hcm-cloud-solution-for-hr-workflows-and-approvals/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-the-best-oracle-hcm-cloud-solution-for-hr-workflows-and-approvals",
-      "published": "2026-11-23T07:36:49Z",
-      "source": "HR Tech Feed",
-      "sourceHome": "https://hrtechfeed.com/",
-      "region": "Global",
-      "categories": [
-        "Talent acquisition"
-      ],
-      "vendors": [
-        "Oracle"
       ]
     }
   ]
