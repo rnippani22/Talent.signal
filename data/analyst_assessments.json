@@ -10,7 +10,7 @@
       "url": "https://www.gartner.com/en/documents/7831517",
       "publicNote": "Public abstract identifies 12 evaluated vendors, but the quadrant positions and detailed scores are in the full report.",
       "sourceReachable": false,
-      "lastCheckedAt": "2026-11-27T08:35:11Z"
+      "lastCheckedAt": "2026-11-27T21:17:34Z"
     },
     {
       "analyst": "Gartner",
@@ -20,7 +20,7 @@
       "url": "https://www.gartner.com/en/documents/7832317",
       "publicNote": "Public abstract lists 12 evaluated vendors and capability areas; product scores are in the full report.",
       "sourceReachable": false,
-      "lastCheckedAt": "2026-11-27T08:35:11Z"
+      "lastCheckedAt": "2026-11-27T21:17:34Z"
     },
     {
       "analyst": "Fosway",
@@ -30,7 +30,7 @@
       "url": "https://www.fosway.com/9-grid-2/talent-acquisition/",
       "publicNote": "Fosway’s current public page describes its annual TA assessment. Individual positions below are included only where an attributable public source states them.",
       "sourceReachable": false,
-      "lastCheckedAt": "2026-11-27T08:35:11Z"
+      "lastCheckedAt": "2026-11-27T21:17:34Z"
     },
     {
       "analyst": "Everest Group",
@@ -40,7 +40,7 @@
       "url": "https://www.everestgrp.com/report/egr-2025-26-r-7722/",
       "publicNote": "Public abstract says the assessment covers 34 permanent and 17 contingent talent-acquisition platforms; provider-level positions are available in the paid/member report.",
       "sourceReachable": false,
-      "lastCheckedAt": "2026-11-27T08:35:11Z"
+      "lastCheckedAt": "2026-11-27T21:17:34Z"
     },
     {
       "analyst": "Fosway",
@@ -50,7 +50,7 @@
       "url": "https://www.fosway.com/wp-content/uploads/2025/04/2024-Fosway-9-Grid-Talent-Acquisition_Full-Report-FINAL-1.pdf",
       "publicNote": "Publicly available prior-cycle report. Kept as historical context and clearly dated; superseded by the 2026 cycle.",
       "sourceReachable": false,
-      "lastCheckedAt": "2026-11-27T08:35:11Z"
+      "lastCheckedAt": "2026-11-27T21:17:34Z"
     }
   ],
   "vendors": [
@@ -60,7 +60,7 @@
       "profileUrl": "https://www.e-recruiter.nl/",
       "publicProfileSummary": "",
       "profileReachable": false,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Adway",
@@ -68,7 +68,7 @@
       "profileUrl": "https://www.adway.ai/",
       "publicProfileSummary": "Turn open roles into social recruitment campaigns, connect applications to your ATS and reach candidates beyond job boards. Explore Adway and book a demo.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Appcast",
@@ -76,7 +76,7 @@
       "profileUrl": "https://www.appcast.io/",
       "publicProfileSummary": "Appcast connects performance media, career site conversion, and full funnel analytics so you can see what is working from click to hire.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Appical",
@@ -84,7 +84,7 @@
       "profileUrl": "https://appical.net/",
       "publicProfileSummary": "Geef je nieuwe medewerkers een warm welkom en maak connecties voor de eerste dag. Start met preboarding en onboarding via de onboarding app van Appical.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Arca24",
@@ -92,7 +92,7 @@
       "profileUrl": "https://www.arca24.com/",
       "publicProfileSummary": "",
       "profileReachable": false,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Arctic Shores",
@@ -100,7 +100,7 @@
       "profileUrl": "https://www.arcticshores.com/",
       "publicProfileSummary": "Start hiring for potential and meaningful, relevant insights about your candidates through ChatGPT-proof, task-based assessments, powered by neuroscience.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Ashby",
@@ -108,7 +108,7 @@
       "profileUrl": "https://www.ashbyhq.com/",
       "publicProfileSummary": "Ashby’s all-in-one recruiting software consolidates your ATS, Analytics, Scheduling, and CRM",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Avature",
@@ -116,7 +116,7 @@
       "profileUrl": "https://www.avature.net/applicant-tracking-system/",
       "publicProfileSummary": "Optimize your hiring with an intelligent applicant tracking system. Avature ATS automates workflows, streamlines processes and enhances candidate experience.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Beamery",
@@ -124,7 +124,7 @@
       "profileUrl": "https://beamery.com/platform/talent-acquisition/",
       "publicProfileSummary": "",
       "profileReachable": false,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Bryq",
@@ -132,7 +132,7 @@
       "profileUrl": "https://www.bryq.com/",
       "publicProfileSummary": "Measure cognitive ability, personality traits, and hard skills including AI fluency in one profile. 3x quality of hire.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Bullhorn",
@@ -140,7 +140,7 @@
       "profileUrl": "https://www.bullhorn.com/products/ats/",
       "publicProfileSummary": "Bullhorn applicant tracking system is the top ATS & CRM utilized by staffing agencies to streamline their entire talent acquisition process. Learn more.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "CEIPAL",
@@ -148,7 +148,7 @@
       "profileUrl": "https://www.ceipal.com/",
       "publicProfileSummary": "Ceipal combines ATS, VMS, and workforce management in one platform. Trusted by 200K+ recruiters. See why staffing firms choose Ceipal.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Cegid",
@@ -156,7 +156,7 @@
       "profileUrl": "https://www.cegid.com/",
       "publicProfileSummary": "Discover Cegid's Cloud business management solutions adapted to the needs of companies and the public sector to improve performance.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "ClearCompany",
@@ -164,7 +164,7 @@
       "profileUrl": "https://www.clearcompany.com/",
       "publicProfileSummary": "ClearCo's AI-powered platform unifies hiring, onboarding, performance, and development, giving HR teams clarity to build and keep great people. Get a demo.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "CleverConnect",
@@ -172,7 +172,7 @@
       "profileUrl": "https://www.cleverconnect.com/",
       "publicProfileSummary": "CleverConnect empowers HR teams to securely leverage AI and drive better hiring results while saving costs. Discover now!",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Clinch",
@@ -180,7 +180,7 @@
       "profileUrl": "https://clinch.co/",
       "publicProfileSummary": "Clinch offers AI-powered omnichannel personalization and dynamic creative optimization to help brands deliver targeted, high-performing ad campaigns.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Cornerstone",
@@ -188,7 +188,7 @@
       "profileUrl": "https://www.cornerstoneondemand.com/solutions/talent-acquisition/",
       "publicProfileSummary": "",
       "profileReachable": false,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Crelate",
@@ -196,7 +196,7 @@
       "profileUrl": "https://www.crelate.com/",
       "publicProfileSummary": "Let Crelate's end-to-end powerful recruitment CRM, applicant tracking system, and staffing software enhance your hiring process with ease.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Darwinbox",
@@ -204,7 +204,7 @@
       "profileUrl": "https://darwinbox.com/en-us/products/recruitment",
       "publicProfileSummary": "Enterprise ready HR recruitment software from Darwinbox to streamline hiring workflows and boost recruiter efficiency. Request a demo!",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Eightfold AI",
@@ -214,7 +214,7 @@
       "profileUrl": "https://eightfold.ai/products/talent-acquisition/",
       "publicProfileSummary": "",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Eploy",
@@ -224,7 +224,7 @@
       "profileUrl": "https://www.eploy.com/",
       "publicProfileSummary": "Eploy provides talent acquisition software providing easy-to-use applicant management and onboarding features to help recruiters work faster & smarter",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Findem",
@@ -232,7 +232,7 @@
       "profileUrl": "https://www.findem.ai/",
       "publicProfileSummary": "Findem combines trusted people data and AI to help teams source, hire, develop, and plan their workforce with greater speed and confidence.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Fountain",
@@ -242,7 +242,7 @@
       "profileUrl": "https://www.fountain.com/",
       "publicProfileSummary": "Frontline Superintelligence. The #1 agent that runs your frontline operations",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Gem",
@@ -250,7 +250,7 @@
       "profileUrl": "https://www.gem.com/",
       "publicProfileSummary": "Gem",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Greenhouse",
@@ -260,7 +260,7 @@
       "profileUrl": "https://www.greenhouse.com/recruiting",
       "publicProfileSummary": "Greenhouse is the applicant tracking system that runs every stage of hiring, from sourcing to onboarding, with structured interviews and governed AI built in.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "HireRoad",
@@ -268,7 +268,7 @@
       "profileUrl": "https://hireroad.com/",
       "publicProfileSummary": "People analytics made easy (& affordable) Big insights, without the big budget. PeopleInsight by HireRoad transforms your HR data into intuitive analytics dashboards in just 5 days. Book a demo Take a Tour Are you drowning in data, but starving for insights? A proactive, data-driven HR strategy doesn’t have to feel out of your grasp. […]",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "HireVue",
@@ -276,7 +276,7 @@
       "profileUrl": "https://www.hirevue.com/",
       "publicProfileSummary": "Hirevue all-in-one online platform for virtual interviewing, recruiting and hiring. Video interviewing, pre-employement assessment screening and scheduling, A.I. powered software.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "HrFlow.ai",
@@ -284,7 +284,7 @@
       "profileUrl": "https://hrflow.ai/",
       "publicProfileSummary": "Meet the first AI agents and Foundation models trained on billions of interview outcomes. The Hiring SuperIntelligence predicts your next hires and who's worth meeting, saving managers thousands of hours wasted on false positives.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Infinite BrassRing",
@@ -294,7 +294,7 @@
       "profileUrl": "https://www.ibm.com/products/talent-management",
       "publicProfileSummary": "The place to shop for software, hardware and services from IBM and our providers. Browse by technologies, business needs and services.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "JazzHR",
@@ -302,7 +302,7 @@
       "profileUrl": "https://www.jazzhr.com/",
       "publicProfileSummary": "JazzHR is powerful, user-friendly, and affordable recruiting software built to help small to medium-sized businesses hire smarter and faster.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "JobDiva",
@@ -310,7 +310,7 @@
       "profileUrl": "https://www.jobdiva.com/",
       "publicProfileSummary": "Discover the Best Way to Streamline Your Recruiting! Increase Your Placements with JobDiva. Request a free demo of our top applicant tracking system, CRM, and VMS for staffing and recruitment professionals!",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Jobvite",
@@ -318,7 +318,7 @@
       "profileUrl": "https://www.jobvite.com/",
       "publicProfileSummary": "Jobvite delivers a comprehensive talent acquisition suite to help enterprise companies attract, engage, hire, and retain the best talent.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Joveo",
@@ -326,7 +326,7 @@
       "profileUrl": "https://www.joveo.com/",
       "publicProfileSummary": "Orchestrate AI agents to run end-to-end recruiting workflows. Drive more qualified applicants, faster hires, and unmatched efficiency.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Kallidus",
@@ -334,7 +334,7 @@
       "profileUrl": "https://www.kallidus.com/",
       "publicProfileSummary": "Kallidus offers companies a learning management system and content to simplify compliance, develop people, and focus on the potential.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Lever",
@@ -342,7 +342,7 @@
       "profileUrl": "https://www.lever.co/",
       "publicProfileSummary": "Lever is modern recruiting software that combines ATS and CRM capabilities to help scaling teams nurture talent relationships and hire efficiently.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Manatal",
@@ -350,7 +350,7 @@
       "profileUrl": "https://www.manatal.com/",
       "publicProfileSummary": "AI Recruitment Software designed to source and hire candidates faster. Tailored for HR teams, recruitment agencies, and headhunters.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Oleeo",
@@ -358,7 +358,7 @@
       "profileUrl": "https://www.oleeo.com/",
       "publicProfileSummary": "Oleeo: Our Talent Acquisition Recruitment Platform solutions are designed to attract, engage, and hire the right diverse talent.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Oracle",
@@ -368,7 +368,7 @@
       "profileUrl": "https://www.oracle.com/human-capital-management/talent-acquisition/",
       "publicProfileSummary": "",
       "profileReachable": false,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Oracle Recruiting",
@@ -376,7 +376,7 @@
       "profileUrl": "https://www.oracle.com/human-capital-management/talent-acquisition/",
       "publicProfileSummary": "",
       "profileReachable": false,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "PageUp",
@@ -384,7 +384,7 @@
       "profileUrl": "https://www.pageuppeople.com/",
       "publicProfileSummary": "PageUp is a best-of-breed talent acquisition software solution designed to help businesses transform hiring and engagement experiences for all.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Paradox",
@@ -392,7 +392,7 @@
       "profileUrl": "https://www.paradox.ai/",
       "publicProfileSummary": "We believe every great hire starts with hello. Our conversational software automates recruiting tasks like screening, interview scheduling, and onboarding to get your candidates from hello to hired faster, and easier, than ever.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Personio",
@@ -400,7 +400,7 @@
       "profileUrl": "https://www.personio.com/product/recruiting/",
       "publicProfileSummary": "",
       "profileReachable": false,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Phenom",
@@ -410,7 +410,7 @@
       "profileUrl": "https://www.phenom.com/",
       "publicProfileSummary": "Phenom Applied AI is an AI platform that helps organizations hire faster, develop employees, and retain talent longer with automation and intelligence.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Pinpoint",
@@ -418,7 +418,7 @@
       "profileUrl": "https://www.pinpoint.com/",
       "publicProfileSummary": "Experience: Helix House · Location: Greater Phoenix Area · 500+ connections on LinkedIn. View Joshua Schoen’s profile on LinkedIn, a professional community of 1 billion members.",
       "profileReachable": false,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Plum",
@@ -426,7 +426,7 @@
       "profileUrl": "https://www.plum.io/",
       "publicProfileSummary": "",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Radancy",
@@ -434,7 +434,7 @@
       "profileUrl": "https://www.radancy.com/",
       "publicProfileSummary": "Discover Radancy’s AI-driven platform designed to simplify hiring, boost ROI and build the workforce of tomorrow. The future of talent acquisition is here.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Recooty",
@@ -442,7 +442,7 @@
       "profileUrl": "https://recooty.com/",
       "publicProfileSummary": "Best AI recruiting & recruitment management software for small businesses & HR teams. Recooty’s AI recruiting platform simplifies & automate hiring with smart, intuitive automation.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Recruit CRM",
@@ -450,7 +450,7 @@
       "profileUrl": "https://recruitcrm.io/",
       "publicProfileSummary": "Recruit CRM helps growing firms manage every step of recruitment with ATS + CRM, AI agents, automation, outreach, and timesheets built into one platform.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Recruitee",
@@ -458,7 +458,7 @@
       "profileUrl": "https://recruitee.com/",
       "publicProfileSummary": "Tellent Recruitee helps you hire faster, work better together, and win top talent without the bottleneck; powered by AI-driven features.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Recruiterflow",
@@ -466,7 +466,7 @@
       "profileUrl": "https://recruiterflow.com/",
       "publicProfileSummary": "Recruiterflow is the best AI-Native ATS & CRM software for executive search firms, recruiting agencies and staffing agencies. It comes equipped with ATS, CRM, sequencing, data enrichment, recruitment automation and AI agents",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Rippling",
@@ -474,7 +474,7 @@
       "profileUrl": "https://www.rippling.com/recruiting",
       "publicProfileSummary": "The first talent acquisition software that lets everyone — from recruiters and hiring managers to department heads — hire more efficiently.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Rival",
@@ -490,7 +490,7 @@
       "profileUrl": "https://www.smartrecruiters.com/",
       "publicProfileSummary": "Enterprise-grade AI hiring platform designed for HR and recruiting talent. SmartRecruiters all-in-one solution, so you can track applicants and hire easily.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "SAP SuccessFactors",
@@ -502,7 +502,7 @@
       "profileUrl": "https://www.sap.com/products/hcm/recruiting-software.html",
       "publicProfileSummary": "",
       "profileReachable": false,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "SeekOut",
@@ -510,7 +510,7 @@
       "profileUrl": "https://www.seekout.com/",
       "publicProfileSummary": "SeekOut is the agentic AI recruiting platform used by 750+ enterprises. Source from 1B+ profiles, screen applicants with AI, and engage candidates at scale.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "SmartDreamers",
@@ -518,7 +518,7 @@
       "profileUrl": "https://www.smartdreamers.com/",
       "publicProfileSummary": "The AI Enterprise Talent Attraction & Engagement Platform that helps you accelerate and automate the talent acquisition ecosystem without replacing the ATS.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "SmartRecruiters",
@@ -526,7 +526,7 @@
       "profileUrl": "https://www.smartrecruiters.com/",
       "publicProfileSummary": "Enterprise-grade AI hiring platform designed for HR and recruiting talent. SmartRecruiters all-in-one solution, so you can track applicants and hire easily.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Symphony Talent",
@@ -534,7 +534,7 @@
       "profileUrl": "https://www.symphonytalent.com/",
       "publicProfileSummary": "We are recruitment marketing experts specializing in Talent Acquisition Software, CRM systems and brand transformation. Find out more.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Talos360",
@@ -542,7 +542,7 @@
       "profileUrl": "https://talos360.co.uk/",
       "publicProfileSummary": "Talos360's people solutions enable HR teams to attract, hire, onboard and develop talent faster & smarter. Explore Talos360 solutions today.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Teamtailor",
@@ -550,7 +550,7 @@
       "profileUrl": "https://www.teamtailor.com/",
       "publicProfileSummary": "Everything you need for hiring people. Made smarter with AI and better with people.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "TribePad",
@@ -558,7 +558,7 @@
       "profileUrl": "https://tribepad.com/",
       "publicProfileSummary": "Discover Tribepad's powerful, multi-award-winning Recruitment Software to help you source, attract, screen, hire, onboard & report with ease.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Umantis",
@@ -566,7 +566,7 @@
       "profileUrl": "https://www.umantis.com/",
       "publicProfileSummary": "Abacus Umantis: die HR-Suite für den DACH-Mittelstand. Recruiting, Talentmanagement, HR-Core und Beratung – eine Plattform, sauber integriert.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "VONQ",
@@ -574,7 +574,7 @@
       "profileUrl": "https://www.vonq.com/",
       "publicProfileSummary": "",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Vervoe",
@@ -582,7 +582,7 @@
       "profileUrl": "https://vervoe.com/",
       "publicProfileSummary": "Vervoe’s role-based skills assessments help enterprises see who can do the job, based on evidence, not resumes. Every result is explainable.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Workable",
@@ -592,7 +592,7 @@
       "profileUrl": "https://www.workable.com/",
       "publicProfileSummary": "Workable is your system of record for everything HR. Find, hire, and manage top talent effortlessly. Trusted by 35,000+ companies across 100+ countries. Start your free trial today.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Workday",
@@ -602,7 +602,7 @@
       "profileUrl": "https://www.workday.com/en-us/products/talent-management/talent-acquisition.html",
       "publicProfileSummary": "Find, engage, and hire talent faster with Talent Acquisition Software from Workday. Unify sourcing, recruiting, and onboarding in one intelligent system.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Workday Recruiting",
@@ -610,7 +610,7 @@
       "profileUrl": "https://www.workday.com/en-us/products/talent-management/talent-acquisition.html",
       "publicProfileSummary": "Find, engage, and hire talent faster with Talent Acquisition Software from Workday. Unify sourcing, recruiting, and onboarding in one intelligent system.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "Zoho Recruit",
@@ -618,7 +618,7 @@
       "profileUrl": "https://www.zoho.com/recruit/",
       "publicProfileSummary": "Reduce time to hire with Zoho Recruit, an AI-powered ATS & recruitment CRM for Corporate HRs and Staffing Agencies. Source, track, and hire the right talent. Get started for free!",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "d.vinci",
@@ -626,7 +626,7 @@
       "profileUrl": "https://www.dvinci.de/",
       "publicProfileSummary": "Optimiere dein Recruiting mit d.vinci: Effiziente Bewerbermanagement- und Onboarding-Software für schnelle, nahtlose HR-Prozesse.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "eArcu",
@@ -634,7 +634,7 @@
       "profileUrl": "https://www.earcu.com/",
       "publicProfileSummary": "PageUp is a best-of-breed talent acquisition software solution designed to help businesses transform hiring and engagement experiences for all.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "iCIMS",
@@ -646,7 +646,7 @@
       "profileUrl": "https://www.icims.com/products/",
       "publicProfileSummary": "",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "iSmartRecruit",
@@ -654,7 +654,7 @@
       "profileUrl": "https://www.ismartrecruit.com/",
       "publicProfileSummary": "AI Recruitment Software for executive search specialists, recruiters and talent acquisition teams across 70+ countries.",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "onlyfy",
@@ -662,7 +662,7 @@
       "profileUrl": "https://www.onlyfy.com/",
       "publicProfileSummary": "onlyfy Bewerbungsmanager bietet ✓ Lösung zu ganzheitlichem Recruiting ✓ verkürzte Zeiten zur ersten Bewerbung ✓ transparente Prozesse",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "softgarden",
@@ -670,7 +670,7 @@
       "profileUrl": "https://softgarden.com/",
       "publicProfileSummary": "Mit der Recruiting Software von softgarden optimierst du Prozesse, gewinnst Top-Talente und stärkst deine Arbeitgebermarke. Jetzt Demo buchen",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     },
     {
       "name": "talentsconnect",
@@ -678,14 +678,14 @@
       "profileUrl": "https://talentsconnect.com/",
       "publicProfileSummary": "Menschen, AI Agents und Systeme in einer Organisation ✓ Das Hybrid Resources Department zeigt dir, wo AI messbar wirkt. Starte mit der Nullmessung!",
       "profileReachable": true,
-      "profileCheckedAt": "2026-11-27T08:35:12Z"
+      "profileCheckedAt": "2026-11-27T21:17:35Z"
     }
   ],
   "profileRefreshNote": "Vendor summaries are extracted from official product-page metadata when accessible; source reachability and summaries are refreshed every six hours. Analyst ratings follow each provider’s publication cycle.",
-  "lastCheckedAt": "2026-11-27T08:35:11Z",
+  "lastCheckedAt": "2026-11-27T21:17:34Z",
   "checkedSourceCount": 0,
   "sourceTotal": 5,
-  "profileCheckedAt": "2026-11-27T08:35:12Z",
+  "profileCheckedAt": "2026-11-27T21:17:35Z",
   "profileSourceCount": 65,
   "profileSourceTotal": 74,
   "profileErrors": [

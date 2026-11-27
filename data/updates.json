@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-27T08:35:09Z",
+  "generatedAt": "2026-11-27T21:17:32Z",
   "sourceCount": 2,
   "sourceTotal": 2,
-  "itemCount": 21,
+  "itemCount": 20,
   "sources": [
     {
       "name": "HR Dive",
@@ -284,21 +284,6 @@
         "AI & automation"
       ],
       "vendors": []
-    },
-    {
-      "title": "UK Payroll April 2027: Why SAP is Targeting February 2027 for the Main Legal Changes",
-      "summary": "SAP wish to share an update with our customers that the main legal changes supporting the April 2027 UK payroll legislation will be delivered in February 2027. This post explains the reasoning, so customers can plan accordingly. The post UK Payroll April 2027: Why SAP is Targeting February 2027 for the Main Legal Changes appeared first on HR Tech Feed .",
-      "url": "https://hrtechfeed.com/uk-payroll-april-2027-why-sap-is-targeting-february-2027-for-the-main-legal-changes/?utm_source=rss&utm_medium=rss&utm_campaign=uk-payroll-april-2027-why-sap-is-targeting-february-2027-for-the-main-legal-changes",
-      "published": "2026-11-23T11:17:07Z",
-      "source": "HR Tech Feed",
-      "sourceHome": "https://hrtechfeed.com/",
-      "region": "Global",
-      "categories": [
-        "Compliance"
-      ],
-      "vendors": [
-        "SAP"
-      ]
     }
   ]
 }
